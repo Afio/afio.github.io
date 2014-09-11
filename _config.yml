@@ -1,8 +1,8 @@
 # Site settings
 title: Afio
 email: afio.iam@gmail.com
-description: My faith is horror and doom
-baseurl: "/" # the subpath of your site, e.g. /blog/
+description:  My faith is horror and doom
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://afio.im/" # the base hostname & protocol for your site
 twitter_username:  afios
 github_username:  afio
