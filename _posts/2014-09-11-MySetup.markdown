@@ -25,9 +25,12 @@ categories: setup
     - SwitchyOptions.bak
     - cd      cd /Applications/goagent/local      python proxy.py
 
-- 浏览器：Chrome dev
+- 浏览器：Chrome dev\s
     
     - Google 账户同步书签
     - 插件：AdBlock / Plus、Always Clear Downloads、Baidu Adblock、LastPass、Proxy SwitchySharp「搭配 GoAgent」、Pocket、有道划词、QR生成器、迅雷下载支持「搭配 Mac 迅雷」
     - 皮肤：[Transparent](https://chrome.google.com/webstore/detail/transparent/oegogboflfgdoajlmhilbamjblflfibj?hl=zh-CN)
+    
+    
+    - test
 
