@@ -266,8 +266,8 @@ pre {
 .post-list {
   margin-left: 0;
   list-style: none; }
-  .post-list > li {
-    margin-bottom: 15px; }
+  /**.post-list > li {
+    margin-bottom: 15px; }*/
 
 .post-meta {
   font-size: 14px;
