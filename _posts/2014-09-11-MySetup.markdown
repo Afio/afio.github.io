@@ -1,15 +1,29 @@
 ---
 layout: post
-title:  "配置清单"
-date:   2014-09-11 16:58:41
+title:  "All Device's Setup"
+date:   2014-09-11 17:01:41
 categories: setup
+
 ---
 ###Mac
 
 ####系统基础
 
-- 输入法：搜狗输入法「搜狐账户（afio@sina.cn）同步词库、联系人及配置」
+- **系统偏好设置**
+    - Dock：自动显示和隐藏、放大*（最大）*、神奇效果
+    - 键盘：输入源清理*（仅保留搜狗拼音和美式英文）*
+    - 触发角：左上和右上为*“桌面”*，左下为*“Launchpad”*，右下为*“Mission Control”*
+    - 屏幕保护程序：*iTunes 插图*
+    - 安全性与隐私：允许从任何来源下载来的应用程序
+    - 通知：打开*“勿扰模式”*
+      
+- **系统插件**：Paragon NTFS *(NTFS格式文件系统写入补丁)*、[Adobe Flash Player](http://get.adobe.com/cn/flashplayer/)
 
+- **输入法**：[搜狗输入法](http://pinyin.sogou.com/mac/)「搜狐账户同步词库、联系人及配置」
+
+- **网络**：GoagentMac +  Proxy SwitchySharpe*（Chrome 插件）* 
+    - SwitchyOptions.bak
+    - cd      cd /Applications/goagent/local      python proxy.py
 
 - 浏览器：Chrome dev
     
