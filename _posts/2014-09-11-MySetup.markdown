@@ -30,7 +30,7 @@ categories: setup
 
 - **网络配置**
     
-    - GoagentMac +  [Proxy SwitchySharpe](http://pan.baidu.com/s/1dDxkYcx) 
+    - GoagentMac ([setup reference](http://www.guokr.com/blog/436937/)) +  [Proxy SwitchySharpe](http://pan.baidu.com/s/1dDxkYcx) 
     - [SwitchyOptions.bak](http://pan.baidu.com/s/1gdkVEKj)
     - `cd    |   cd /Applications/goagent/local    |   python proxy.py `
 
