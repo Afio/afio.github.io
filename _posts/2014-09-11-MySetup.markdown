@@ -5,34 +5,40 @@ date:   2014-09-11 17:01:41
 categories: setup
 
 ---
-###Mac
+###MacBook Pro Retina, 13-inch
 
 ####系统基础
 
 - **系统偏好设置**
+    
     - Dock：自动显示和隐藏、放大*（最大）*、神奇效果
     - 键盘：输入源清理*（仅保留搜狗拼音和美式英文）*
     - 触发角：左上和右上为*“桌面”*，左下为*“Launchpad”*，右下为*“Mission Control”*
     - 屏幕保护程序：*iTunes 插图*
     - 安全性与隐私：允许从任何来源下载来的应用程序
     - 关闭 Dashboard
-
-         - ` defaults write com.apple.dashboard mcx-disabled -boolean YES`
-         - `killall Dock`
-        
+          ` defaults write com.apple.dashboard mcx-disabled -boolean YES`
+          `killall Dock`
     - 通知：打开*“勿扰模式”*
       
-- **系统插件**：Paragon NTFS *(NTFS格式文件系统写入补丁)*、[Adobe Flash Player](http://get.adobe.com/cn/flashplayer/)
+- **系统插件**
+    
+    - Paragon NTFS *(NTFS格式文件系统写入补丁)*
+    - [Adobe Flash Player](http://get.adobe.com/cn/flashplayer/)
 
-- **输入法**：[搜狗输入法](http://pinyin.sogou.com/mac/)「搜狐账户同步词库、联系人及配置」
+- **输入法**
+    
+    - [搜狗输入法](http://pinyin.sogou.com/mac/)：搜狐账户同步词库、联系人及配置
 
-- **网络**：GoagentMac +  [Proxy SwitchySharpe](http://pan.baidu.com/s/1dDxkYcx) 
+- **网络配置**
+    
+    - GoagentMac +  [Proxy SwitchySharpe](http://pan.baidu.com/s/1dDxkYcx) 
     - [SwitchyOptions.bak](http://pan.baidu.com/s/1gdkVEKj)
     - `cd    |   cd /Applications/goagent/local    |   python proxy.py `
 
-- **浏览器**：Chrome dev
+- **浏览器**
     
-    - Google 账户同步书签
+    - Chrome dev：Google 账户同步书签
     - 插件：AdBlock / Plus、Always Clear Downloads、Baidu Adblock、LastPass、Proxy SwitchySharp「搭配 GoAgent」、Pocket、有道划词、QR生成器、迅雷下载支持「搭配 Mac 迅雷」
     - 皮肤：[Transparent](https://chrome.google.com/webstore/detail/transparent/oegogboflfgdoajlmhilbamjblflfibj?hl=zh-CN)
     
