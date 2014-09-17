@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My MacBook Setup"
+title:  "Mac Setup"
 date:   2014-09-11 17:01:41
 categories: setup
 
@@ -31,50 +31,51 @@ categories: setup
 
 ####Chrome browser 
 
+  - Theme：[Transparent](https://chrome.google.com/webstore/detail/transparent/oegogboflfgdoajlmhilbamjblflfibj?hl=zh-CN)
    - Login Google Account and Sync all
-   - Plug-Ins：`AdBlock / Plus、Baidu Adblock、LastPass、Always Clear Downloads、Proxy SwitchySharp「with GoAgent」、Pocket、有道划词、QR生成器、迅雷下载支持「搭配 Mac 迅雷」`
-   - Theme：[Transparent](https://chrome.google.com/webstore/detail/transparent/oegogboflfgdoajlmhilbamjblflfibj?hl=zh-CN)
+   - Plug-Ins：`AdBlock   | Adbloc Plus  | Baidu Adblock  |  LastPass  |  Always Clear Downloads  |  Proxy SwitchySharp「with GoAgent」  |  Pocket  |  有道划词  |  QR生成器  |  WikiWand`
     
 #### Tool apps  
     
-- VOX
-- 虾米
-- 迅雷
-- 搜狗
-- 微云
-- Snip
-- Flux
-- iTool
-- Keka
-- iPhoto
-- Fission
+- [VOX](http://coppertino.com/)
+- [虾米](http://www.xiami.com/apps/mac)
+- [迅雷](http://mac.xunlei.com/)
+- [搜狗](http://pinyin.sogou.com/mac/)
+- [微云](http://www.weiyun.com/download.html)
+- [管家](http://mac.guanjia.qq.com/)
+- [Snip](http://snip.qq.com/)
+- [Flux](https://justgetflux.com/)
+- [iTools](http://www.itools.cn/itoolsmacjiantibanxiazai)
+- [Keka](http://www.kekaosx.com/zh-cn/)
+- [iPhoto](https://www.apple.com/cn/mac/iphoto/)
+- [Fission](http://rogueamoeba.com/fission/)
 - 射手影音
-- LICEcap
+- [LICEcap](http://www.cockos.com/licecap/)
 - Airsever
 - Archiver
-- Instashare
+- [Instashare](http://instashareapp.com/)
 - VidConvert
 - Screenflow
-- Blue Planet
+- [Blue Planet](http://blueplanetapp.com/)
 - Civilization V
 
 #### Work apps
 
-- QQ
-- 微信
-- Airmail
-- Dropbox
+- [QQ](http://im.qq.com/macqq/)
+- [微信](http://weixin.qq.com/cgi-bin/readtemplate?t=mac)
+- [Airmail](https://rink.hockeyapp.net/apps/84be85c3331ee1d222fd7f0b59e41b04)
+- [Dropbox](https://www.dropbox.com/zh_CN/downloading?os=mac)
 - Mindnode 
 - MS Office 2011
 - iWorks :  `Keynote | Numbers  | Pages`
 
 #### Study apps
 
-- Mou
-- Github
-- iTerm2
-- 码薄笔记
-- Sublime
+- [Mou](http://25.io/mou/)
+- [Github](https://mac.github.com/)
+- [iTerm2](http://imwuyu.me/talk-about/cool-iterm2.html/)
+- [码薄笔记](http://marboo.biz/zh_CN/)
+- [Sublime](http://www.sublimetext.com/3)
 - Sketch Mac
 - Illustrator CC
 - Photoshop CC
