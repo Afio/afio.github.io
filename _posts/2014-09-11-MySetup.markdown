@@ -97,7 +97,7 @@ categories: setup
 
 ####System preferences
 
-- CMD-->MSCONFIG-->NT6 HDD
+*- CMD-->MSCONFIG-->NT6 HDD
 - 用户账户控制设置-->从不通知
 - 释放磁盘空间-->清理系统文件
 - 程序-->启用或关闭 Windows 功能
@@ -107,21 +107,21 @@ categories: setup
 - 操作中心通知设置-->全部取消
 - 通知区域图标-->隐藏/关闭
 - 个性化-->更改桌面图标
-- 开始屏幕-->取消磁铁固定
+- 开始屏幕-->取消磁铁固定*
 
 ####Win App
 
-- Chrome dev
+*- Chrome dev
 - WinRAR
 - 搜狗
 - 迅雷
 - Picasa
 - Ccleaner
 - PotPlayer
-- iTunes  ︳iTools
-- Goagent   ︳SmartHosts
-- 虾米   ︳AIRPLAY   ︳Tag&Rename
-- MacType  ︳Camtasia Studio   ︳InPaintPortable
+- iTunes  |  iTools
+- Goagent  |  SmartHosts
+- 虾米  |  AIRPLAY  |  Tag&Rename
+- MacType   |  Camtasia Studio  |  InPaintPortable*
 
 
 
