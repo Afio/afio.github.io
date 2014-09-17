@@ -15,8 +15,8 @@ categories: setup
     - 屏幕保护程序：*iTunes 插图*
     - 安全性与隐私：允许从任何来源下载来的应用程序
     - 关闭 Dashboard
-          ` defaults write com.apple.dashboard mcx-disabled -boolean YES`
-          `killall Dock`
+          - ` defaults write com.apple.dashboard mcx-disabled -boolean YES`
+          - `killall Dock`
     - 通知：打开*“勿扰模式”*
       
 - **系统插件**
@@ -40,5 +40,36 @@ categories: setup
     - 插件：AdBlock / Plus、Always Clear Downloads、Baidu Adblock、LastPass、Proxy SwitchySharp「搭配 GoAgent」、Pocket、有道划词、QR生成器、迅雷下载支持「搭配 Mac 迅雷」
     - 皮肤：[Transparent](https://chrome.google.com/webstore/detail/transparent/oegogboflfgdoajlmhilbamjblflfibj?hl=zh-CN)
     
-    
+- 微云同步盘：backup all files
+- VOX：Music Player  |  虾米音乐：Music Finder & Player
+- Mou：Markdown Editor
+- 码薄笔记：Markdown files mange
 
+- Instashare：sync files between iOS & Mac     
+- QQ：life groups  |  微信：work groups
+- Thunder：download app
+- Mindnode Pro
+- Sublime Text2
+- Sketch
+- CV5
+- Archiver：load zip/rar files
+- Photoshop CC
+- AI
+- Airmail
+- iTerm2
+- Blue Planet
+- Github
+- Fission
+- VidConvert
+- iPhoto
+- Office 
+- Airsever
+- Keka
+- LICEcap
+- Flux
+- iTool
+- Screenflow
+- Snip
+- 射手影音
+- Dropbox
+- iWorks
