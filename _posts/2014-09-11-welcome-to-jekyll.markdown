@@ -10,9 +10,9 @@ categories: jekyll update
 - 使用 [Github Mac](https://mac.github.com/)可以节省很多事，按照 [Github Page 页面](https://pages.github.com/)流程来即可；
 - 本地配置的时候记得修改 gem 源，命令前尽量都加上 sudo
      
-      1. ` sudo gem sources --remove http://rubygems.org/  `
-      2.  `sudo gem sources -a http://ruby.taobao.org/ `
-      3.  `sudo gem install jekyll`
+      1.  sudo gem sources --remove http://rubygems.org/  
+      2.  sudo gem sources -a http://ruby.taobao.org/ 
+      3.  sudo gem install jekyll
 
 - 不建议 Jekyll Bootstrap；
 - 资源站：[Jekyll 中文网](http://jekyllcn.com/)、 [Jekyll Theme](http://jekyllthemes.org/)；
