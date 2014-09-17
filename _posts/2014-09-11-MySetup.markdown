@@ -71,8 +71,10 @@ categories: setup
 
 #### Use apps
 
+
 - [Mou](http://25.io/mou/)
 - [Github](https://mac.github.com/)
+- Alfred 2
 - [iTerm2](http://imwuyu.me/talk-about/cool-iterm2.html/)
 - [码薄笔记](http://marboo.biz/zh_CN/)
 - [Sublime](http://www.sublimetext.com/3)
