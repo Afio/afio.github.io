@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "All Device's Setup"
+title:  "My MacBook Setup"
 date:   2014-09-11 17:01:41
 categories: setup
 
@@ -17,7 +17,7 @@ categories: setup
    - 触发角：左上和右上`Desktop`，左下`Launchpad`，右下`Mission Control`
    - 关闭 Dashboard：` defaults write com.apple.dashboard mcx-disabled -boolean YES  | killall Dock`
       
-####System plug-Ins
+####System plug-ins
   
   - [Adobe Flash Player](http://get.adobe.com/cn/flashplayer/)：土坷垃
    - Paragon NTFS：NTFS格式文件系统写入补丁
@@ -32,8 +32,8 @@ categories: setup
 ####Chrome browser 
 
    - Login Google Account and Sync all
-   - Pluain-Ins：AdBlock / Plus、Always Clear Downloads、Baidu Adblock、LastPass、Proxy SwitchySharp「with GoAgent」、Pocket、有道划词、QR生成器、迅雷下载支持「搭配 Mac 迅雷」
-   - 皮肤：[Transparent](https://chrome.google.com/webstore/detail/transparent/oegogboflfgdoajlmhilbamjblflfibj?hl=zh-CN)
+   - Plug-Ins：AdBlock / Plus、Baidu Adblock、LastPass、Always Clear Downloads、Proxy SwitchySharp「with GoAgent」、Pocket、有道划词、QR生成器、迅雷下载支持「搭配 Mac 迅雷」
+   - Theme：[Transparent](https://chrome.google.com/webstore/detail/transparent/oegogboflfgdoajlmhilbamjblflfibj?hl=zh-CN)
     
 #### Tool apps  
     
