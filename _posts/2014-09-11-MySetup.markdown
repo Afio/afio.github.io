@@ -14,7 +14,7 @@ categories: setup
    - 屏幕保护程序：iTunes 插图
    - Dock：自动显示和隐藏、放大最大、神奇效果
    - 安全性与隐私：允许从任何来源下载来的应用程序
-   - 触发角：左上和右上**Desktop**，左下**Launchpad**，右下**Mission Control**
+   - 触发角：左上和右上`Desktop`，左下`Launchpad`，右下`Mission Control`
    - 关闭 Dashboard：` defaults write com.apple.dashboard mcx-disabled -boolean YES  | killall Dock`
       
 ####System Plug-Ins
