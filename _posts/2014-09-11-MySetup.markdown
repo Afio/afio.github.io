@@ -7,7 +7,7 @@ categories: setup
 ---
 ###MacBook Pro Retina, 13-inch
 
-####System Preferences
+####System preferences
   
    - 通知：勿扰模式
    - 键盘：输入源清理
@@ -17,12 +17,12 @@ categories: setup
    - 触发角：左上和右上`Desktop`，左下`Launchpad`，右下`Mission Control`
    - 关闭 Dashboard：` defaults write com.apple.dashboard mcx-disabled -boolean YES  | killall Dock`
       
-####System Plug-Ins
+####System plug-Ins
   
   - [Adobe Flash Player](http://get.adobe.com/cn/flashplayer/)：土坷垃
    - Paragon NTFS：NTFS格式文件系统写入补丁
    
-####Network Configuration
+####Network configuration
 
   -  GoagentMac ([setup reference](http://www.guokr.com/blog/436937/)) 
   -  Get [Proxy SwitchySharpe](http://pan.baidu.com/s/1dDxkYcx) 
@@ -35,7 +35,7 @@ categories: setup
    - Pluain-Ins：AdBlock / Plus、Always Clear Downloads、Baidu Adblock、LastPass、Proxy SwitchySharp「with GoAgent」、Pocket、有道划词、QR生成器、迅雷下载支持「搭配 Mac 迅雷」
    - 皮肤：[Transparent](https://chrome.google.com/webstore/detail/transparent/oegogboflfgdoajlmhilbamjblflfibj?hl=zh-CN)
     
-#### Tool Apps  
+#### Tool apps  
     
 - VOX
 - 虾米
@@ -58,7 +58,7 @@ categories: setup
 - Blue Planet
 - Civilization V
 
-#### work Apps
+#### Work apps
 
 - QQ
 - 微信
@@ -68,7 +68,7 @@ categories: setup
 - MS Office 2011
 - iWorks :  Keynote | Numbers  | Pages
 
-#### study Apps
+#### Study apps
 
 - Mou
 - Github
