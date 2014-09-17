@@ -85,10 +85,10 @@ categories: setup
 
 ###iOS 8, iPhone 5
 
-- in:play
-- Authentic
-- Anyconnect
-- Ingress
+- [in:play](https://itunes.apple.com/cn/app/in-play/id564522300?mt=8)
+- [Authentic](https://itunes.apple.com/cn/app/authentic-weather/id649202100?mt=8)
+- [Anyconnect](https://itunes.apple.com/cn/app/cisco-anyconnect/id392790924?mt=8)
+- [Ingress](https://itunes.apple.com/cn/app/ingress/id576505181?mt=8)
 
 ----
 
