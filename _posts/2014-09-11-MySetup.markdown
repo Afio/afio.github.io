@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mac Setup"
+title:  "Devices' Setup"
 date:   2014-09-11 17:01:41
 categories: setup
 
@@ -69,7 +69,7 @@ categories: setup
 - MS Office 2011
 - iWorks :  `Keynote | Numbers  | Pages`
 
-#### Study apps
+#### Use apps
 
 - [Mou](http://25.io/mou/)
 - [Github](https://mac.github.com/)
@@ -81,9 +81,47 @@ categories: setup
 - Photoshop CC
 
 
+----
+
+###iOS 8, iPhone 5
+
+- in:play
+- Authentic
+- Anyconnect
+- Ingress
+
+----
+
+###Win8, ThinkPad R400 (3 years ago)
 
 
+####System preferences
 
+- CMD-->MSCONFIG-->NT6 HDD
+- 用户账户控制设置-->从不通知
+- 释放磁盘空间-->清理系统文件
+- 程序-->启用或关闭 Windows 功能
+- Windows 更新-->关闭
+- 电源选项-->关闭盖子无任何操作
+- 电源选项-->睡眠时间延长
+- 操作中心通知设置-->全部取消
+- 通知区域图标-->隐藏/关闭
+- 个性化-->更改桌面图标
+- 开始屏幕-->取消磁铁固定
+
+####Win App
+
+- Chrome dev
+- WinRAR
+- 搜狗
+- 迅雷
+- Picasa
+- Ccleaner
+- PotPlayer
+- iTunes  ︳iTools
+- Goagent   ︳SmartHosts
+- 虾米   ︳AIRPLAY   ︳Tag&Rename
+- MacType  ︳Camtasia Studio   ︳InPaintPortable
 
 
 
