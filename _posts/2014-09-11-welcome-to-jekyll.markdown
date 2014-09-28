@@ -17,7 +17,7 @@ categories: jekyll update
 - 不建议 Jekyll Bootstrap；
 - 资源站：[Jekyll 中文网](http://jekyllcn.com/)、 [Jekyll Theme](http://jekyllthemes.org/)；
 - 评论可使用 [Disque](https://disqus.com/)；
-
+- 如想添加 favicon 图标，直接找一个喜欢的 icon 然后重命名为 favicon.ico 扔根目录下即可，如果不放心可以在 `_layouts` 的 `page.html` 及 `post.html` 的 head 标签内 加一句 `<link rel="shortcut icon" href="favicon.ico">`
 
 
 
