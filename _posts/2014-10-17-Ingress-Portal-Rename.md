@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Ingress Portal Rename"
@@ -6,8 +5,6 @@ date:   2014-10-17 20:00:00
 categories: ingress
 
 ---
-
-
 ####红领巾公园
 
 - 扭曲的翔 ---> 曲
