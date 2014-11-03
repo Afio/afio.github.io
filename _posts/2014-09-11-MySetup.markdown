@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Devices' Setup"
+title:  "Mac Setup"
 date:   2014-09-11 17:01:41
 categories: setup
 
@@ -63,6 +63,7 @@ categories: setup
 
 - [QQ](http://im.qq.com/macqq/)
 - [微信](http://weixin.qq.com/cgi-bin/readtemplate?t=mac)
+- [Slack](https://slack.com/)
 - [Airmail](https://rink.hockeyapp.net/apps/84be85c3331ee1d222fd7f0b59e41b04)
 - [Dropbox](https://www.dropbox.com/zh_CN/downloading?os=mac)
 - Mindnode 
@@ -78,52 +79,11 @@ categories: setup
 - [iTerm2](http://imwuyu.me/talk-about/cool-iterm2.html/)
 - [码薄笔记](http://marboo.biz/zh_CN/)
 - [Sublime](http://www.sublimetext.com/3)
+- [The Hunt](https://itunes.apple.com/us/app/the-hunt/id930645905?mt=12)
 - Sketch Mac
 - Illustrator CC
 - Photoshop CC
 
-
-----
-
-###iOS 8, iPhone 5
-
-- [in:play](https://itunes.apple.com/cn/app/in-play/id564522300?mt=8)
-- [Authentic](https://itunes.apple.com/cn/app/authentic-weather/id649202100?mt=8)
-- [Anyconnect](https://itunes.apple.com/cn/app/cisco-anyconnect/id392790924?mt=8)
-- [Ingress](https://itunes.apple.com/cn/app/ingress/id576505181?mt=8)
-
-----
-
-###Win8, ThinkPad R400 (3 years ago)
-
-
-####System preferences
-
-*- CMD-->MSCONFIG-->NT6 HDD
-- 用户账户控制设置-->从不通知
-- 释放磁盘空间-->清理系统文件
-- 程序-->启用或关闭 Windows 功能
-- Windows 更新-->关闭
-- 电源选项-->关闭盖子无任何操作
-- 电源选项-->睡眠时间延长
-- 操作中心通知设置-->全部取消
-- 通知区域图标-->隐藏/关闭
-- 个性化-->更改桌面图标
-- 开始屏幕-->取消磁铁固定*
-
-####Win App
-
-*- Chrome dev
-- WinRAR
-- 搜狗
-- 迅雷
-- Picasa
-- Ccleaner
-- PotPlayer
-- iTunes  /  iTools
-- Goagent  /  SmartHosts
-- 虾米  / AIRPLAY  / Tag&Rename
-- MacType   /  Camtasia Studio  /  InPaintPortable*
 
 
 
