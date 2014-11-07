@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ingress Portal List"
+title:  "ingress portal lists"
 date:   2014-10-17 20:00:00
 categories: ingress
 
@@ -33,8 +33,7 @@ categories: ingress
 ####Portals Rejected by NIA_OPS
 
 
-- 愚公移山「39.933754,116.414575」「[Photo](http://pic.yupoo.com/sharemyself/EbPAY3jw/medish.jpg)」
-
+- 愚公移山「<a href="http://pic.yupoo.com/sharemyself/EbPAY3jw/medish.jpg" target="_blank">Photo</a>」---> 39.933754,116.414575
 
 
 
