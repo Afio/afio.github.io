@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Ingress Portal Rename"
+title:  "Ingress Portal List"
 date:   2014-10-17 20:00:00
 categories: ingress
 
 ---
-####红领巾公园
+####Portals need rename @红领巾公园
 
 - 扭曲的翔 ---> 曲
 - 红旗 ---> 红领巾之歌
@@ -24,7 +24,20 @@ categories: ingress
 <br>
 - 母鸡和小鸡 ---> 老鹰来了
 - 采蘑菇的小姑娘 ---> 蘑菇座椅
+<br>
+
+####Portals Accepted by NIA_OPS
+
+- Fu*king none yet
+
+####Portals Rejected by NIA_OPS
+
+
+- 愚公移山「39.933754,116.414575」「[Photo](http://pic.yupoo.com/sharemyself/EbPAY3jw/medish.jpg)」
 
 
 
 
+
+
+*注：经纬坐标为 [Google Map 坐标](https://support.google.com/maps/answer/18539)*
