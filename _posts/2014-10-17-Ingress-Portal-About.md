@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ingress portal lists"
+title:  "Ingress Portal Lists"
 date:   2014-10-17 20:00:00
 categories: ingress
 
@@ -38,5 +38,4 @@ categories: ingress
 
 
 
-
-*注：经纬坐标为 [Google Map 坐标](https://support.google.com/maps/answer/18539)*
+*注：经纬坐标为 <a href="https://support.google.com/maps/answer/18539" target="_blank">Google Map 坐标</a>*
