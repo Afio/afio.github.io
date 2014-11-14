@@ -83,8 +83,9 @@ categories: work
 - [Sidebar](http://sidebar.io/)
 - [Betalist](http://betalist.com/)
 - [Good Stuff](http://tinyletter.com/disinfeqt)
-- [Hacking UI Weekly](http://hackingui.com/)
 - [Hacker Newsletter](http://www.hackernewsletter.com/)
+- [Hacking UI Weekly](http://hackingui.com/)
+- [WebdesignerDepot](http://www.webdesignerdepot.com/)
 - [More waiting to add here](http://afio.im/work/2014/09/15/workgeek-email.html)
 
 
