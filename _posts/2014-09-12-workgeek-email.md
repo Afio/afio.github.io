@@ -79,7 +79,7 @@ categories: work
 
 ###值得订阅邮件推荐
 
-
+- [uiGIGs](http://uigifs.com/)
 - [Sidebar](http://sidebar.io/)
 - [Betalist](http://betalist.com/)
 - [Good Stuff](http://tinyletter.com/disinfeqt)

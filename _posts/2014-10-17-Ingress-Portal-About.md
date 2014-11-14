@@ -33,7 +33,9 @@ categories: ingress
 ####Portals Rejected by NIA_OPS
 
 
-- 愚公移山「<a href="http://pic.yupoo.com/sharemyself/EbPAY3jw/medish.jpg" target="_blank">Photo</a>」---> 39.933754,116.414575
+- 北京愚公移山「<a href="http://ingresss.qiniudn.com/yugongyishan.jpg" target="_blank">Photo</a>」---> 39.933754,116.414575
+
+- 越南芽庄海豚喷泉「<a href="http://ingresss.qiniudn.com/haitunpenquan.jpg" target="_blank">Photo</a>」---> 12.238618,109.193723
 
 
 
