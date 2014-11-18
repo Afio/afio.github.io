@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-ingress enlightened #13 @beijing
+ingress enlightened #14.9999 @beijing
 
 Afio or afio, is note the meaning of AFIO, the short cut of「Association of Former Intelligence Officers」or「Air Force Information Operations」, not even「Authorization For Interceptor Operations」or「Agreement For Fighter Interceptor Operations / Approved Force Inventory Objective」, it's just the meaning of "a fool".
 
