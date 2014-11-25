@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "#WorkGeek# Email"
+title:  "Email habit"
 date:   2014-09-15 17:00:00
 categories: work
 
 ---
  
-##My Email Standard
+##My Email Habit
 
 ###清空收件箱「建议习惯」
 
