@@ -6,6 +6,10 @@ categories: ingress
 
 ---
 
+####Mission Accepted by NIA_OPS
+
+- [阳光下的步履-红领巾公园](https://plus.google.com/photos/+RandyDong/albums/posts/6085570777404213410)
+
 ####Portals Accepted by NIA_OPS
 
 - None yet
@@ -14,7 +18,6 @@ categories: ingress
 
 
 - 北京愚公移山「<a href="http://ingresss.qiniudn.com/yugongyishan.jpg" target="_blank">Photo</a>」---> 39.933754,116.414575
-
 - 越南芽庄海豚喷泉「<a href="http://ingresss.qiniudn.com/haitunpenquan.jpg" target="_blank">Photo</a>」---> 12.238618,109.193723
 
 ####Portals keys reserved 
