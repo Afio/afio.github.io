@@ -96,9 +96,9 @@ Just like the Lines says, <a href="https://www.ingress.com/" target="_blank">Ing
 - ttwttmttj：三元桥
 
 
-###All Ingress Photo & Pics
+###Tour record
 
-- <a href="https://plus.google.com/photos/110298263430604287685/albums/6085988348907482833?authkey=CLDi_dTO4M7WFg" target="_blank"> 戳我戳我</a>
+- <a href="https://plus.google.com/photos/110298263430604287685/albums/6085988348907482833?authkey=CLDi_dTO4M7WFg" target="_blank"> All photos & screenshots</a>
 
 
 
