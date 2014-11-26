@@ -39,7 +39,7 @@ categories: tour
 
 - 翻译：[有道辞典](https://itunes.apple.com/us/app/you-dao-ci-dian-ben-zeng-qiang/id353115739?mt=8)*「使用英语基本可以沟通」*
 
-- 主要任务：[Ingress](https://itunes.apple.com/us/app/ingress/id576505181?mt=8)*「申了有一百五+左右的 Portal，UPC, UPV 也有增加」*
+- 主要任务：[Ingress](https://itunes.apple.com/us/app/ingress/id576505181?mt=8)*「申了有一百五+左右的 Portal，[UPC及UPV](http://ingresss.qiniudn.com/IMG_2410.jpg)也有增加」*
 
 - 出行计划：[穷游](https://itunes.apple.com/cn/app/qiong-you-chu-jing-lu-xing/id563467866?mt=8)+[蝉游记](https://itunes.apple.com/cn/app/id559653959?mt=8) *「在去下一个出行地路上或到达当晚在酒店才看」*
 
