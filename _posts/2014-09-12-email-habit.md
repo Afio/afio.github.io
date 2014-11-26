@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Email habit"
+title:  "Email Habit"
 date:   2014-09-15 17:00:00
 categories: work
 
