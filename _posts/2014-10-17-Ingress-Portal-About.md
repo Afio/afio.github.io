@@ -8,7 +8,7 @@ categories: ingress
 
 ####Mission Accepted by NIA_OPS
 
-- [阳光下的步履-红领巾公园](https://plus.google.com/photos/+RandyDong/albums/posts/6085570777404213410)
+- <a href="https://plus.google.com/photos/+RandyDong/albums/posts/6085570777404213410" target="_blank">阳光下的步履-红领巾公园</a>
 
 ####Portals Accepted by NIA_OPS
 
