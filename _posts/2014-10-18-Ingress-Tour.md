@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ingress Tour"
-date:   2014-10-16 20:00:00
+date:   2014-10-18 20:00:00
 categories: ingress
 
 ---
@@ -31,6 +31,9 @@ Just like the Lines says, <a href="https://www.ingress.com/" target="_blank">Ing
 - Level **14** : 2014.11.16 @NIA送牌子坐升
 - Level **15** : 2014.12.02「原预定时间」成就po被推暂hold
 
+###Tour record
+
+- <a href="https://plus.google.com/photos/110298263430604287685/albums/6085988348907482833?authkey=CLDi_dTO4M7WFg" target="_blank"> All photos & screenshots</a>
 
 ###Ingress Guys 
 
@@ -94,11 +97,6 @@ Just like the Lines says, <a href="https://www.ingress.com/" target="_blank">Ing
 - lifetime：颐提港
 - Zzmt：颐提港
 - ttwttmttj：三元桥
-
-
-###Tour record
-
-- <a href="https://plus.google.com/photos/110298263430604287685/albums/6085988348907482833?authkey=CLDi_dTO4M7WFg" target="_blank"> All photos & screenshots</a>
 
 ###Ingress meme
 
