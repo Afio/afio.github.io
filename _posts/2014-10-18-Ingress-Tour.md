@@ -11,7 +11,7 @@ categories: ingress
 
 >“I think a man only needs one thing in life. He just needs someone to love. If you can’t give him that, then give him something to hope for. And if you can’t give him that, just give him something to do. --<a href="http://movie.douban.com/subject/1308982/" target="_blank">「Flight of the Phoenix」</a>"
 
-Just like the Lines says, <a href="https://www.ingress.com/" target="_blank">Ingress</a> happened to be the 「something」for me.
+Just like the Lines says, <a href="https://www.ingress.com/" target="_blank">Ingress</a> happened to be the「something」for me.
 
 ###Level up 
 
@@ -109,11 +109,11 @@ Just like the Lines says, <a href="https://www.ingress.com/" target="_blank">Ing
 
 ####Books
 
-- <a href="http://www.amazon.com/Niantic-Project-Ingress-Felicia-Hajra-Lee-ebook/dp/B00CTSZQ9Q/" target="_blank">《The Niantic Project: Ingress》</a>「待读」
-- <a href="http://www.amazon.com/Endgame-The-Calling-James-Frey-ebook/dp/B00HU5NEQK" target="_blank">《Endgame》</a>「待读」
+- <a href="http://www.amazon.com/Niantic-Project-Ingress-Felicia-Hajra-Lee-ebook/dp/B00CTSZQ9Q/" target="_blank">《The Niantic Project: Ingress》</a>「待」
+- <a href="http://www.amazon.com/Endgame-The-Calling-James-Frey-ebook/dp/B00HU5NEQK" target="_blank">《Endgame》</a>「待」
 
  
-- <a href="http://movie.douban.com/subject/20503584/" target="_blank">《北京古狮》</a>「正读」
+- <a href="http://movie.douban.com/subject/20503584/" target="_blank">《北京古狮》</a>「待」
 - <a href="http://movie.douban.com/subject/1018768/" target="_blank">《中华石狮雕刻艺术》</a>
 - <a href="http://movie.douban.com/subject/3003618/" target="_blank">《陕北民俗小石狮》</a>
 - <a href="http://movie.douban.com/subject/1256195/" target="_blank">《民间石雕》</a>
