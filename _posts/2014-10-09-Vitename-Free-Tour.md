@@ -43,8 +43,9 @@ categories: tour
 - 货币换算：[iMoney](https://itunes.apple.com/cn/app/imoney-quan-qiu-hui-lu-zhuan/id389793068)*「越南盾和软妹币可按去万乘三快速估算」*
 - 查看地图&导航：[Google Map](https://itunes.apple.com/us/app/google-maps/id585027354?mt=8)*「人肉翻墙后你才会发现它的强大好用」*
 - 餐厅饭馆：[TripAdvisor](https://itunes.apple.com/us/app/tripadvisor-hotels-flights/id284876795?mt=8) 
-- 当地货币：入境后可直接在机场 ATM 机「支持国内银联」上取够用现金即可，另外各城市中大多数 ATM 机也都支持银联，很方便
-- 电话卡：同样，入境后在机场里就有越南电信营业「摊」，使用期限一个月含 3G 流量及花费的 VIETTEL「越南电信」卡也就大概 100 RMB 左右。
+- 当地货币：入境后可直接在机场 ATM 机「支持国内银联」上取够用现金即可，另外各城市中大多数 ATM 机也都支持银联，很方便；
+- 电话卡：同样，入境后在机场里就有越南电信营业「摊」，使用期限一个月含 3G 流量及花费的 VIETTEL「越南电信」卡也就大概 100 RMB 左右；
+- 插头转换器：no need，和国内插头及电压是一致的；
 
 ###再其他
 
