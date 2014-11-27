@@ -11,7 +11,7 @@ categories: ingress
 
 >“I think a man only needs one thing in life. He just needs someone to love. If you can’t give him that, then give him something to hope for. And if you can’t give him that, just give him something to do. --<a href="http://movie.douban.com/subject/1308982/" target="_blank">「Flight of the Phoenix」</a>"
 
-Just like the Lines says, <a href="https://www.ingress.com/" target="_blank">Ingress</a> happen to be something to do for me.
+Just like the Lines says, <a href="https://www.ingress.com/" target="_blank">Ingress</a> happened to be the 「something」for me.
 
 ###Level up 
 
