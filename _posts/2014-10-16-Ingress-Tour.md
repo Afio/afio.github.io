@@ -100,17 +100,40 @@ Just like the Lines says, <a href="https://www.ingress.com/" target="_blank">Ing
 
 - <a href="https://plus.google.com/photos/110298263430604287685/albums/6085988348907482833?authkey=CLDi_dTO4M7WFg" target="_blank"> All photos & screenshots</a>
 
+###Ingress meme
+
+####Documentaries
+
+- <a href="http://movie.douban.com/subject/4959621/" target="_blank"> 《城市化》</a>
+- <a href="http://movie.douban.com/subject/4319017/" target="_blank">《画廊外的天赋》</a>
+- <a href="http://movie.douban.com/subject/20503584/" target="_blank"> 《三色艺术史》</a>
+- <a href="http://movie.douban.com/subject/25879080/" target="_blank"> 《北京大堵车》</a>
+
+####Books
+
+- <a href="http://www.amazon.com/Niantic-Project-Ingress-Felicia-Hajra-Lee-ebook/dp/B00CTSZQ9Q/" target="_blank">《The Niantic Project: Ingress》</a>「待读」
+- <a href="http://www.amazon.com/Endgame-The-Calling-James-Frey-ebook/dp/B00HU5NEQK" target="_blank">《Endgame》</a>「待读」
+
+ 
+- <a href="http://movie.douban.com/subject/20503584/" target="_blank">《北京古狮》</a>「正读」
+- <a href="http://movie.douban.com/subject/1018768/" target="_blank">《中华石狮雕刻艺术》</a>
+- <a href="http://movie.douban.com/subject/3003618/" target="_blank">《陕北民俗小石狮》</a>
+- <a href="http://movie.douban.com/subject/1256195/" target="_blank">《民间石雕》</a>
+- <a href="http://movie.douban.com/subject/20314610/" target="_blank">《雕塑情缘》</a>
 
 
+- <a href="http://movie.douban.com/subject/3230270/" target="_blank">《瑞士建築異境》</a>
+- <a href="http://movie.douban.com/subject/1341986/" target="_blank">《街道神話》</a>
+- <a href="http://movie.douban.com/subject/1521371/" target="_blank">《德国景观设计》</a>
+- <a href="http://movie.douban.com/subject/3513872/" target="_blank">《北京建筑设计》</a>
+- <a href="http://movie.douban.com/subject/2991028/" target="_blank">《巴黎建筑设计》</a>
+- <a href="http://movie.douban.com/subject/3513723/" target="_blank">《景山》</a>
+- <a href="http://movie.douban.com/subject/3720650/" target="_blank">《城市散步》</a>
+- <a href="http://movie.douban.com/subject/3049584/" target="_blank">《中国印象》</a>
 
 
-
-
-
-
-
-
-
-
-
-
+- <a href="http://movie.douban.com/subject/5279403/" target="_blank">《The Street Art Stencil Book》</a>
+- <a href="http://movie.douban.com/subject/1857975/" target="_blank">《Graffiti Women》</a>
+- <a href="http://movie.douban.com/subject/3044956/" target="_blank">《Getting Through The Walls》</a>
+- <a href="http://movie.douban.com/subject/2238879/" target="_blank">《Sticker City》</a>
+- <a href="http://movie.douban.com/subject/2567500/" target="_blank">《Street Sketchbook》</a>
