@@ -13,7 +13,7 @@ categories: ingress
 
 Just like the Lines says, <a href="https://www.ingress.com/" target="_blank">Ingress</a> happened to be the「something」for me.
 
-Those days, I using ingress to help shape the world’s vision of reality, and…escape real-world annoyingly mind, to get away frome somethings that's broken in my life.
+Those days, I using ingress to help shape the world’s vision of reality, and…escape real-world annoyingly mind, to get away frome the fact that 「someting」 all I have and need losing in my life.
 
 ###Level up 
 
