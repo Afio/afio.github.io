@@ -7,7 +7,7 @@ categories: jekyll update
 
 距离上个 Blog 域名（`http://yun.be`）被域名商 hold 已经快三年了，今天终于又重新开启个人独立域名 Blog，这次告别了 WordPress，换到 Github + Github Page +  Markdown+Jekyll 环境。关于配置过程网上很多这里就不复述了，仅提供一些 tips：
 
-- 使用 [Github Mac](https://mac.github.com/)可以节省很多事，按照 [Github Page 页面](https://pages.github.com/)流程来即可；
+- 使用 <a href="https://mac.github.com/" target="_blank">Github Mac</a>可以节省很多事，按照 <a href="https://pages.github.com/” target="_black">Github Page 页面</a>流程来即可；
 - 本地配置的时候记得修改 gem 源，命令前尽量都加上 sudo
      
       1.  sudo gem sources --remove http://rubygems.org/  
@@ -15,8 +15,8 @@ categories: jekyll update
       3.  sudo gem install jekyll
 
 - 不建议 Jekyll Bootstrap；
-- [Jekyll 中文网](http://jekyllcn.com/)是个好网站；
-- 评论可使用 [Disque](https://disqus.com/)；
+- <a href="http://jekyllcn.com/" target="_blank">Jekyll 中文网</a>是个好网站；
+- 评论可使用 <a href="https://disqus.com/" target="_blank">Disque</a>；
 - 如想添加 favicon 图标，直接找一个喜欢的 icon 然后重命名为 favicon.ico 扔根目录下即可，如果不放心可以在 `_layouts` 的 `page.html` 及 `post.html` 的 head 标签内 加一句 `<link rel="shortcut icon" href="favicon.ico">`
 - 其他默认设置见下：
 

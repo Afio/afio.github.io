@@ -56,8 +56,9 @@ categories: setup
 - [Instashare](http://instashareapp.com/)
 - VidConvert
 - Screenflow
-- [Blue Planet](http://blueplanetapp.com/)
+- [~~Blue Planet~~](http://blueplanetapp.com/)
 - Civilization V
+- [Shadowsocks](http://shadowsocks.org/en/download/clients.html)
 
 #### Work apps
 
@@ -75,9 +76,9 @@ categories: setup
 
 - [Mou](http://25.io/mou/)
 - [Github](https://mac.github.com/)
-- Alfred 2
+- ~~Alfred 2~~
 - [iTerm2](http://imwuyu.me/talk-about/cool-iterm2.html/)
-- [码薄笔记](http://marboo.biz/zh_CN/)
+- [~~码薄笔记~~](http://marboo.biz/zh_CN/)
 - [Sublime](http://www.sublimetext.com/3)
 - [The Hunt](https://itunes.apple.com/us/app/the-hunt/id930645905?mt=12)
 - Sketch Mac
