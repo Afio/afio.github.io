@@ -24,10 +24,11 @@ categories: setup
    
 ####Network configuration
 
-  -  GoagentMac ([setup reference](http://www.guokr.com/blog/436937/)) 
+   
   -  Get [Proxy SwitchySharpe](http://pan.baidu.com/s/1dDxkYcx) 
   - [SwitchyOptions.bak](http://pan.baidu.com/s/1gdkVEKj) downlaod
   - `cd    |   cd /Applications/goagent/local    |   python proxy.py `
+  - New Shadowsocks Profiles：`Socks: 127.0.0.1 ; Port: 1080 ; SOCKS v5`
 
 ####Chrome browser 
 
@@ -56,7 +57,6 @@ categories: setup
 - [Instashare](http://instashareapp.com/)
 - VidConvert
 - Screenflow
-- [~~Blue Planet~~](http://blueplanetapp.com/)
 - Civilization V
 - [Shadowsocks](http://shadowsocks.org/en/download/clients.html)
 
@@ -76,15 +76,19 @@ categories: setup
 
 - [Mou](http://25.io/mou/)
 - [Github](https://mac.github.com/)
-- ~~Alfred 2~~
 - [iTerm2](http://imwuyu.me/talk-about/cool-iterm2.html/)
-- [~~码薄笔记~~](http://marboo.biz/zh_CN/)
 - [Sublime](http://www.sublimetext.com/3)
-- [The Hunt](https://itunes.apple.com/us/app/the-hunt/id930645905?mt=12)
 - Sketch Mac
 - Illustrator CC
 - Photoshop CC
 
+#### Abandon apps
+
+- <s>Alfred 2</s>
+- <s>[The Hunt](https://itunes.apple.com/us/app/the-hunt/id930645905?mt=12)</s>
+- <s>[码薄笔记](http://marboo.biz/zh_CN/)</s>
+- <s>[Blue Planet](http://blueplanetapp.com/)</s>
+- <s>GoagentMac ([setup reference](http://www.guokr.com/blog/436937/))</s>
 
 
 
