@@ -34,7 +34,7 @@ categories: setup
 
   - Theme：[Transparent](https://chrome.google.com/webstore/detail/transparent/oegogboflfgdoajlmhilbamjblflfibj?hl=zh-CN)
    - Login Google Account and Sync all
-   - Plug-Ins：`AdBlock   | Adbloc Plus  | Baidu Adblock  |  LastPass  |  Always Clear Downloads  |  Proxy SwitchySharp「with GoAgent」  |  Pocket  |  有道划词  |  QR生成器  |  WikiWand`
+   - Plug-Ins：`AdBlock   | Adbloc Plus  | Baidu Adblock  |  LastPass  |  Always Clear Downloads  |  Proxy SwitchySharp |  Pocket  |  有道划词  |  QR生成器  |  WikiWand`
     
 #### Tool apps  
     
