@@ -116,9 +116,8 @@ Those days, I using ingress to help shape the world’s vision of reality, and�
 
 ####TED Talks
 
-- <a href="http://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world" target="_blank">Gaming can make a better world</a>「待」
-- <a href="http://www.ted.com/talks/jane_mcgonigal_massively_multi_player_thumb_wrestling" target="_blank">Massively multi-player… thumb-wrestling?</a>「待」
-- <a href="http://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life" target="_blank">The game that can give you 10 extra years of life</a>「待」
+- <a href="http://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world" target="_blank">Gaming can make a better world</a>
+- <a href="http://www.ted.com/talks/jane_mcgonigal_massively_multi_player_thumb_wrestling" target="_blank">Massively multi-player… thumb-wrestling?</a>
 
 ####Books
 
