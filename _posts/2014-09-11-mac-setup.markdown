@@ -75,8 +75,8 @@ categories: setup
 
 
 - [Mou](http://25.io/mou/)
+- <a herf="http://yilan.hackplan.com/" target="_blank">一览</a>
 - [Github](https://mac.github.com/)
-- [iTerm2](http://imwuyu.me/talk-about/cool-iterm2.html/)
 - [Sublime](http://www.sublimetext.com/3)
 - Sketch Mac
 - Illustrator CC
@@ -85,10 +85,14 @@ categories: setup
 #### Abandon apps
 
 - <s>Alfred 2</s>
-- <s>[The Hunt](https://itunes.apple.com/us/app/the-hunt/id930645905?mt=12)</s>
-- <s>[码薄笔记](http://marboo.biz/zh_CN/)</s>
-- <s>[Blue Planet](http://blueplanetapp.com/)</s>
-- <s>GoagentMac ([setup reference](http://www.guokr.com/blog/436937/))</s>
+- <s><a herf="http://imwuyu.me/talk-about/cool-iterm2.html/" target="_blank">iTerm2</a></s>
+- <s><a herf="https://itunes.apple.com/us/app/the-hunt/id930645905?mt=12" target="_blank">The Hunt</a></s>
+- <s><a herf="http://marboo.biz/zh_CN/" target="_blank">码薄笔记</a></s>
+- <s><a herf="http://blueplanetapp.com" target="_blank">Blue Planet</a></s>
+- <s>GoagentMac (<a herf="http://www.guokr.com/blog/436937/" target="_blank">setup reference</a>)</s>
+
+
+
 
 
 
