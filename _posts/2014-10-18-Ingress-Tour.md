@@ -13,6 +13,8 @@ categories: ingress
 
 Just like the Lines says, <a href="https://www.ingress.com/" target="_blank">Ingress</a> happened to be the「something」for me.
 
+Those days, I using ingress to help shape the world’s vision of reality, and…escape real-world annoyingly mind, to get away frome somethings that's broken in my life.
+
 ###Level up 
 
 - Level **1**  : 2014.07.14 @咖啡陪你_慈云寺
@@ -106,6 +108,17 @@ Just like the Lines says, <a href="https://www.ingress.com/" target="_blank">Ing
 - <a href="http://movie.douban.com/subject/4319017/" target="_blank">《画廊外的天赋》</a>
 - <a href="http://movie.douban.com/subject/20503584/" target="_blank"> 《三色艺术史》</a>
 - <a href="http://movie.douban.com/subject/25879080/" target="_blank"> 《北京大堵车》</a>
+
+####Moocs
+
+- <a href="http://www.xuetangx.com/courses/TsinghuaX/80000901X/2014_T2/about" target="_blank">《中国建筑史》</a>「断」
+- <a href="http://www.xuetangx.com/courses/TsinghuaX/10800032X/_/about" target="_blank">《外国工艺美术史》</a>「断」
+
+####TED Talks
+
+- <a href="http://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world" target="_blank">Gaming can make a better world</a>「待」
+- <a href="http://www.ted.com/talks/jane_mcgonigal_massively_multi_player_thumb_wrestling" target="_blank">Massively multi-player… thumb-wrestling?</a>「待」
+- <a href="http://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life" target="_blank">The game that can give you 10 extra years of life</a>「待」
 
 ####Books
 
