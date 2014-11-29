@@ -130,6 +130,8 @@ Those days, I using ingress to help shape the world’s vision of reality, and�
 - <a href="http://movie.douban.com/subject/3003618/" target="_blank">《陕北民俗小石狮》</a>
 - <a href="http://movie.douban.com/subject/1256195/" target="_blank">《民间石雕》</a>
 - <a href="http://movie.douban.com/subject/20314610/" target="_blank">《雕塑情缘》</a>
+- 《阳光下的步履-北京红领巾公园公关艺术展》
+- 《城市雕塑&公共艺术：王府井商业街&皇城遗址公园》
 
 
 - <a href="http://movie.douban.com/subject/3230270/" target="_blank">《瑞士建築異境》</a>
