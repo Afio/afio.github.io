@@ -19,7 +19,7 @@ categories: tour
 
 ####越南国内：
    
-   - 若为长距离城市跨行：如从河内到西贡，优选航空，目前只有「<a href="http://www.jetstar.com/cn/zh/home" target="_blank">捷星航空</a>」和「<a href="http://www.vietnamairlines.com/wps/portal/cn/site/home?lang=cn&country=china&country_code=CN">越南航空</a>」两个选择。刚好这次出行两个都有体验：前者是澳洲航空旗下的一家廉价航空公司，价格便宜但限行李重量不含餐饮「一般只要不是搬家式出行其实无影响」；后者为越南国字号航空公司，价格稍微贵一点，含餐饮「略难吃」。若提前购票，两家线上选航班及支付都很方便快捷。
+   - 若为长距离城市跨行：如从河内到西贡，优选航空，目前只有「<a href="http://www.jetstar.com/cn/zh/home" target="_blank">捷星航空</a>」和「<a href="http://www.vietnamairlines.com/wps/portal/cn/site/home?lang=cn&country=china&country_code=CN">越南航空</a>」两个选择。刚好这次出行两个都有体验：前者是澳洲航空旗下的一家廉价航空公司，价格便宜但限行李重量不含餐饮「一般只要不是搬家式出行其实无影响」；后者为越南国字号航空公司，价格稍微贵一点，含餐饮「略难吃」。若提前购票，两家线上选航班及支付都很方便快捷。「机票预计及查询可用<a href="https://itunes.apple.com/cn/app/tian-xunskyscanner-cha-xun/id431620005?mt=8" target="_blank"> Skyscanner天巡</a>」
    
    - 若为短距离穿行：如从西贡到美奈或美奈到芽庄，优选<a href="https://www.thesinhtourist.vn/" target="_blank"> sintourist 新咖啡卧铺大巴</a>，提前网络订票也很方便，如果不小心订错了可电话或邮件修改/取消，亲测靠谱。
    

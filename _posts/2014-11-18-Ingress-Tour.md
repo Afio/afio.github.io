@@ -125,7 +125,7 @@ Those days, I using ingress to help shape the world’s vision of reality, and�
 - <a href="http://www.amazon.com/Endgame-The-Calling-James-Frey-ebook/dp/B00HU5NEQK" target="_blank">《Endgame》</a>「待」
 
  
-- <a href="http://movie.douban.com/subject/20503584/" target="_blank">《北京古狮》</a>「待」
+- <a href="http://movie.douban.com/subject/20503584/" target="_blank">《北京古狮》</a>
 - <a href="http://movie.douban.com/subject/1018768/" target="_blank">《中华石狮雕刻艺术》</a>
 - <a href="http://movie.douban.com/subject/3003618/" target="_blank">《陕北民俗小石狮》</a>
 - <a href="http://movie.douban.com/subject/1256195/" target="_blank">《民间石雕》</a>
