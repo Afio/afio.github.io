@@ -9,6 +9,10 @@ categories: ingress
 ####Mission Accepted by NIA_OPS
 
 - <a href="https://plus.google.com/photos/+RandyDong/albums/posts/6085570777404213410" target="_blank">阳光下的步履-红领巾公园</a>
+- <a href="https://plus.google.com/u/1/photos/110298263430604287685/albums/posts/6088285164876983970" target="_blank">北京侨福芳草地一游</a>
+- 探寻北京陈经纶中学
+- 苹果社区&今日美术馆一撇
+- 来日坛公园祭祀太阳神「In Review」
 
 ####Portals Accepted by NIA_OPS
 
