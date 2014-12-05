@@ -12,7 +12,7 @@ categories: ingress
 - <a href="https://plus.google.com/u/1/photos/110298263430604287685/albums/posts/6088285164876983970" target="_blank">北京侨福芳草地一游</a>
 - 探寻北京陈经纶中学
 - 苹果社区&今日美术馆一撇
-- 来日坛公园祭祀太阳神「In Review」
+- 来日坛公园祭祀太阳神
 
 ####Portals Accepted by NIA_OPS
 
