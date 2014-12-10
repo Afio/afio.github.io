@@ -109,21 +109,26 @@ Those days, I using ingress to help shape the world’s vision of reality, and�
 - <a href="http://movie.douban.com/subject/20503584/" target="_blank"> 《三色艺术史》</a>
 - <a href="http://movie.douban.com/subject/25879080/" target="_blank"> 《北京大堵车》</a>
 
-####Moocs
-
-- <a href="http://www.xuetangx.com/courses/TsinghuaX/80000901X/2014_T2/about" target="_blank">《中国建筑史》</a>「断」
-- <a href="http://www.xuetangx.com/courses/TsinghuaX/10800032X/_/about" target="_blank">《外国工艺美术史》</a>「断」
-
-####TED Talks
+####Talks & Moocs
 
 - <a href="http://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world" target="_blank">Gaming can make a better world</a>
 - <a href="http://www.ted.com/talks/jane_mcgonigal_massively_multi_player_thumb_wrestling" target="_blank">Massively multi-player… thumb-wrestling?</a>
 
+
+- <a href="https://www.edx.org/course/future-cities-ethx-fc-01x#.VCEEBfmSz7F" target="_blank">Future Cities</a>「待」
+- <a href="http://www.xuetangx.com/courses/TsinghuaX/80000901X/2014_T2/about" target="_blank">《中国建筑史》</a>「断」
+- <a href="http://www.xuetangx.com/courses/TsinghuaX/10800032X/_/about" target="_blank">《外国工艺美术史》</a>「断」
+
 ####Books
+
 
 - <a href="http://www.amazon.com/Niantic-Project-Ingress-Felicia-Hajra-Lee-ebook/dp/B00CTSZQ9Q/" target="_blank">《The Niantic Project: Ingress》</a>「待」
 - <a href="http://www.amazon.com/Endgame-The-Calling-James-Frey-ebook/dp/B00HU5NEQK" target="_blank">《Endgame》</a>「待」
 
+
+- <a href="http://book.douban.com/subject/6028977/" target="_blank">《零ZEЯRO》</a>
+- <a href="http://book.douban.com/subject/25742296/" target="_blank">《有限与无限的游戏》</a>
+ 
  
 - <a href="http://book.douban.com/subject/2111737/" target="_blank">《北京古狮》</a>
 - <a href="http://book.douban.com/subject/1018768/" target="_blank">《中华石狮雕刻艺术》</a>
@@ -134,14 +139,13 @@ Those days, I using ingress to help shape the world’s vision of reality, and�
 - 《城市雕塑&公共艺术：王府井商业街&皇城遗址公园》
 
 
-
-
 - <a href="http://book.douban.com/subject/1334893/" target="_blank">《涂鴉·城市糖果地圖》</a>
 - <a href="http://book.douban.com/subject/3230270/" target="_blank">《瑞士建築異境》</a>
 - <a href="http://book.douban.com/subject/1341986/" target="_blank">《街道神話》</a>
 - <a href="http://book.douban.com/subject/1521371/" target="_blank">《德国景观设计》</a>
 - <a href="http://book.douban.com/subject/3513872/" target="_blank">《北京建筑设计》</a>
 - <a href="http://book.douban.com/subject/2991028/" target="_blank">《巴黎建筑设计》</a>
+- <a href="http://book.douban.com/subject/20507214/" target="_blank">《水墨北京》</a>
 - <a href="http://book.douban.com/subject/3513723/" target="_blank">《景山》</a>
 - <a href="http://book.douban.com/subject/3720650/" target="_blank">《城市散步》</a>
 - <a href="http://book.douban.com/subject/3049584/" target="_blank">《中国印象》</a>

@@ -16,13 +16,17 @@ categories: ingress
 
 ####Portals Accepted by NIA_OPS
 
-- None yet
+- 不知名越南佛 <a href="http://ingresss.qiniudn.com/IMG_4803.PNG" target="_blank">「@NhaTrang」</a>
+- 占婆塔建筑右 <a href="http://ingresss.qiniudn.com/IMG_4804.PNG0" target="_blank">「@NhaTrang」</a>
+- 占婆塔骑象女佛 <a href="http://ingresss.qiniudn.com/IMG_4805.PNG" target="_blank">「@NhaTrang」</a>
+- 占婆塔香炉 <a href="http://ingresss.qiniudn.com/IMG_4806.PNG" target="_blank">「@NhaTrang」</a>
 
 ####Portals Rejected by NIA_OPS
 
 
 - 北京愚公移山「<a href="http://ingresss.qiniudn.com/yugongyishan.jpg" target="_blank">Photo</a>」---> 39.933754,116.414575
-- 越南芽庄海豚喷泉「<a href="http://ingresss.qiniudn.com/haitunpenquan.jpg" target="_blank">Photo</a>」---> 12.238618,109.193723
+- NhaTrang 海豚喷泉「<a href="http://ingresss.qiniudn.com/haitunpenquan.jpg" target="_blank">Photo</a>」---> 12.238618,109.193723
+- NhaTrang 婆那加塔系列 Portal「<a href="https://plus.google.com/u/1/communities/109232994234702056256" target="_blank">Screenshot</a>」 ---> 12.2655382,109.1957975
 
 ####Portals keys reserved
 
