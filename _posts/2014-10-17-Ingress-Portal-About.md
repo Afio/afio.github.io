@@ -17,7 +17,7 @@ categories: ingress
 ####Portals Accepted by NIA_OPS
 
 - 不知名越南佛 <a href="http://ingresss.qiniudn.com/IMG_4803.PNG" target="_blank">「@NhaTrang」</a>
-- 占婆塔建筑右 <a href="http://ingresss.qiniudn.com/IMG_4804.PNG0" target="_blank">「@NhaTrang」</a>
+- 占婆塔建筑右 <a href="http://ingresss.qiniudn.com/IMG_4804.PNG" target="_blank">「@NhaTrang」</a>
 - 占婆塔骑象女佛 <a href="http://ingresss.qiniudn.com/IMG_4805.PNG" target="_blank">「@NhaTrang」</a>
 - 占婆塔香炉 <a href="http://ingresss.qiniudn.com/IMG_4806.PNG" target="_blank">「@NhaTrang」</a>
 
@@ -27,9 +27,6 @@ categories: ingress
 - 北京愚公移山「<a href="http://ingresss.qiniudn.com/yugongyishan.jpg" target="_blank">Photo</a>」---> 39.933754,116.414575
 - NhaTrang 海豚喷泉「<a href="http://ingresss.qiniudn.com/haitunpenquan.jpg" target="_blank">Photo</a>」---> 12.238618,109.193723
 - NhaTrang 婆那加塔系列 Po「<a href="https://plus.google.com/photos/+RandyDong/albums/posts/6091318485341085746?pid=6091318485341085746&oid=110298263430604287685" target="_blank">Screenshot</a>」 ---> 12.2655382,109.1957975
-    
-    - *飞石、陶罐、砖炉、星月炉、浮雕、合手女佛、石碑、假石、小佛头
-    、猪鼻佛、合手观音、坐佛、躺龙、露乳女佛* 
 
 ####Portals keys reserved
 
