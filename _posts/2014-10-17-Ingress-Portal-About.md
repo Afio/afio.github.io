@@ -27,6 +27,7 @@ categories: ingress
 - 北京愚公移山「<a href="http://ingresss.qiniudn.com/yugongyishan.jpg" target="_blank">Photo</a>」---> 39.933754,116.414575
 - NhaTrang 海豚喷泉「<a href="http://ingresss.qiniudn.com/haitunpenquan.jpg" target="_blank">Photo</a>」---> 12.238618,109.193723
 - NhaTrang 婆那加塔系列 Portal「<a href="https://plus.google.com/u/1/communities/109232994234702056256" target="_blank">Screenshot</a>」 ---> 12.2655382,109.1957975
+    
     - *飞石、陶罐、砖炉、星月炉、浮雕、合手女佛、石碑、假石、小佛头
     、猪鼻佛、合手观音、坐佛、躺龙、露乳女佛* 
 
