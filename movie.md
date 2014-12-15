@@ -4,6 +4,12 @@ title: Movie
 permalink: /movie/
 ---
 
+
+test
+
+
+---
+
 This is movie Page, all movie info come from below source:
 
 
