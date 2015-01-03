@@ -59,6 +59,7 @@ Those days, I using ingress to help shape the world’s vision of reality, and�
 - moroumo：肉夹馍奶爸
 - hsu：马甸昌平战神
 - jacksong5：颐提港大神
+- nizi2000：妮子阿姨
 - MrThigh：思考的大腿
 - AceWheat：上等麦芽啤酒
 - shelddddd：798射姬师
@@ -77,6 +78,7 @@ Those days, I using ingress to help shape the world’s vision of reality, and�
 
 ####Resistance
 
+- unqiuememory
 - Gracefang：方大老爷
 - Yuchi9987：鱼翅
 - bypai：大叔
@@ -97,7 +99,6 @@ Those days, I using ingress to help shape the world’s vision of reality, and�
 - Lapuasi：拉皮儿
 - czzhang：颐提港
 - lifetime：颐提港
-- Zzmt：颐提港
 - ttwttmttj：三元桥
 
 ###Ingress meme
@@ -106,6 +107,8 @@ Those days, I using ingress to help shape the world’s vision of reality, and�
 
 - <a href="http://movie.douban.com/subject/4959621/" target="_blank"> 《城市化》</a>
 - <a href="http://movie.douban.com/subject/4319017/" target="_blank">《画廊外的天赋》</a>
+- <a href="http://www.laojilu.com/btv/bei-jing-hu-tong.html" target="_blank"> 《北京的胡同》</a>「ing」
+- <a href="http://movie.douban.com/subject/3567203/" target="_blank"> 《漫游世界建筑群》</a>「ing」
 - <a href="http://movie.douban.com/subject/20503584/" target="_blank"> 《三色艺术史》</a>
 - <a href="http://movie.douban.com/subject/25879080/" target="_blank"> 《北京大堵车》</a>
 
