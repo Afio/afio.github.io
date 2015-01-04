@@ -31,7 +31,7 @@ Those days, I using ingress to help shape the world’s vision of reality, and�
 - Level **12** : 2014.11.13 @金融街
 - Level **13** : 2014.11.14 @柳荫公园
 - Level **14** : 2014.11.16 @NIA送牌子坐升
-- Level **15** : 2014.12.02「原预定时间」成就po被推暂hold
+- Level **15** : 2015.01.03 @798公司门口
 
 ###Tour record
 
