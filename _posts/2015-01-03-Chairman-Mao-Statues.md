@@ -21,7 +21,7 @@ categories: ingress
 - 中国农业大学（时北京农业机械学院），1967年，水泥，高10米「清华东路17号」
 - 北京体育大学（时北京体育学院），1970年，水泥，高9米「信息路48号」
 
-*注：以上所有均以有相应 Portal，已建<a href="http://ingresss.qiniudn.com/MaoStateTour.png" target="_blank">Mission</a>「any order hack」*
+*注：以上所有均以有相应 Portal，已建 <a href="http://ingresss.qiniudn.com/MaoStateTour.png" target="_blank">Mission</a>「any order hack」*
 
 1. Mao‘s Statues in BUCT「北京化工大学」
 2. 北邮-阿毛「北京邮电大学」
@@ -58,6 +58,7 @@ categories: ingress
 
 #####via
 
+- <a href="http://book.douban.com/subject/21241418/" target="_blank">图说毛泽东雕像</a>
 - <a href="http://www.wikiwand.com/zh/%E6%AF%9B%E4%B8%BB%E5%B8%AD%E5%A1%91%E5%83%8F" target="_blank">维基百科之毛主席塑像</a>
 - <a href="http://dxtna.blog.sohu.com/152248602.html" target="_blank">文革后毛主席塑像被拆除（1）</a>
 - <a href="http://dxtna.blog.sohu.com/153551497.html" target="_blank">文革后毛主席塑像被拆除（2）</a>
