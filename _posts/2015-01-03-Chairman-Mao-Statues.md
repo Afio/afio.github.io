@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chairman Mao Statues"
-date:   2014-01-03 20:00:00
+date:   2015-01-03 20:00:00
 categories: ingress
 
 ---
