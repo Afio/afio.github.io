@@ -12,14 +12,14 @@ categories: ingress
 
 ####学院研究院（8）
 
-- 北京交通大学（时北京铁道学院），1967年，水泥，高9米「上园村3号」
-- 北京化工大学（时北京化工学院），1967年，水泥，高8.5米「北三环东路15号」
-- 中国石油勘探开发研究院（时北京石油学院），1967年，高10米「学院路20号」
-- 中国地质大学（时中国地质学院），1967年，水泥，高12.26米「学院路29号」
-- 北京科技大学（时北京钢铁学院），1967年，水泥，高12.26米「学院路30号」
-- 北京邮电大学（时北京邮电学院），1967年，水泥，高12.26米「西土城路10号」
-- 中国农业大学（时北京农业机械学院），1967年，水泥，高10米「清华东路17号」
-- 北京体育大学（时北京体育学院），1970年，水泥，高9米「信息路48号」
+- 北京交通大学（时北京铁道学院），1967年，水泥，<a href="http://ingresss.qiniudn.com/beijiao.jpg" target="_blank">高9米</a>「上园村3号」
+- 北京化工大学（时北京化工学院），1967年，水泥，<a href="http://ingresss.qiniudn.com/beihua.jpg" target="_blank">高8.5米</a>「北三环东路15号」
+- 中国石油勘探开发研究院（时北京石油学院），1967年，<a href="http://ingresss.qiniudn.com/shiyoukanchayuan.jpg" target="_blank">高10米</a>「学院路20号」
+- 中国地质大学（时中国地质学院），1967年，水泥，<a href="http://ingresss.qiniudn.com/dizhidaxue.jpg" target="_blank">高12.26米</a>「学院路29号」
+- 北京科技大学（时北京钢铁学院），1967年，水泥，<a href="http://ingresss.qiniudn.com/beikeji.jpg" target="_blank">高12.26米</a>「学院路30号」
+- 北京邮电大学（时北京邮电学院），1967年，水泥，<a href="http://ingresss.qiniudn.com/beiyou.jpg" target="_blank">高12.26米</a>「西土城路10号」
+- 中国农业大学（时北京农业机械学院），1967年，水泥，<a href="http://ingresss.qiniudn.com/nongda.jpg" target="_blank">高10米</a>「清华东路17号」
+- 北京体育大学（时北京体育学院），1970年，水泥，<a href="http://ingresss.qiniudn.com/tiyu.jpg" target="_blank">高9米</a>「信息路48号」
 
 *注：以上所有均以有相应 Portal，已建 <a href="http://ingresss.qiniudn.com/MaoStateTour.png" target="_blank">Mission</a>「any order hack」*
 
@@ -34,27 +34,27 @@ categories: ingress
 
 ####军政机关（8）
 
-- 国防大学（时解放军政治学院），1967，水泥，高8.1米「二号院，复兴路83号」
-- 海军大院（时解放军海军总部），1968年，汉白玉，高12.26米「西三环中路19号」
-- 总后大院（时解放军后勤总部），1968年，白玉石，高9.86米「复兴路22号」
-- 炮兵大院（时解放军炮兵总部），1967-1969年，水泥，高10米「复兴路24号」
-- 国防科工委大院，1967年，不锈钢，高10米「爱民街1号」
-- 军委工程兵大院（时工兵、二炮总部），1967年，水泥，高8米「太平路46号」
-- 国家林业局（时国家林业部），1967年，水泥，高8米「和平里东街18号」
-- 中国铁路工程总公司（时军委铁道兵总部），1967年，水泥，高8米「复兴路69号」
+- 国防大学二号院（时解放军政治学院），1967，水泥，<a href="http://ingresss.qiniudn.com/guofangdaxue.jpg" target="_blank">高8.1米</a>「二号院，复兴路83号」
+- 海军大院（时解放军海军总部），1968年，汉白玉，<a href="http://ingresss.qiniudn.com/haijundayuan.jpg" target="_blank">高12.26米</a>「西三环中路19号」
+- 总后大院（时解放军后勤总部），1968年，白玉石，<a href="http://ingresss.qiniudn.com/zonghou.jpg" target="_blank">高9.86米</a>「复兴路22号」
+- 炮兵大院（时解放军炮兵总部），1967-1969年，水泥，<a href="http://ingresss.qiniudn.com/paobing.jpg" target="_blank">高10米</a>「复兴路24号」
+- 国防科工委大院，1967年，不锈钢，<a href="http://ingresss.qiniudn.com/kegongwei.jpg" target="_blank">高10米</a>「爱民街1号」
+- 军委工程兵大院（时工兵、二炮总部），1967年，水泥，<a href="http://ingresss.qiniudn.com/gongwei.jpg" target="_blank">高8米</a>「太平路46号」
+- 国家林业局（时国家林业部），1967年，水泥，<a href="http://ingresss.qiniudn.com/linyeju.jpg" target="_blank">高8米</a>「和平里东街18号」
+- 中国铁路工程总公司（时军委铁道兵总部），1967年，水泥，<a href="http://ingresss.qiniudn.com/tiedaobing.jpg" target="_blank">高8米</a>「复兴路69号」
 
 ####国企军工（4）
 
-- 北京玻璃钢研究所（时国家建材部251厂），1967年，玻璃钢，高8.1米「康西路261号」
-- 红旗家属院（时北京红旗机械厂），1978年，玻璃钢，高5，5米「通州新华南路34号」
-- 中国国际图书贸易集团公司，1967-1968年，水泥，高9米「车公庄西路35号」
-- 北京手表厂，1967-1969年间，水泥，高12.26米「昌平燕平路东门外」
+- 北京玻璃钢研究所（时国家建材部251厂），1967年，玻璃钢，<a href="http://ingresss.qiniudn.com/boligang.jpg" target="_blank">高8.1米</a>「康西路261号」
+- 红旗家属院（时北京红旗机械厂），1978年，玻璃钢，<a href="http://ingresss.qiniudn.com/hongqijiashuyuan.jpg" target="_blank">高5.5米</a>「通州新华南路34号」
+- 中国国际图书贸易集团公司，1967-1968年，水泥，<a href="http://ingresss.qiniudn.com/guojitushumaoyi.jpg" target="_blank">高9米</a>「车公庄西路35号」
+- 北京手表厂，1967-1969年间，水泥，<a href="http://ingresss.qiniudn.com/shoubiaochang.jpg" target="_blank">高12.26米</a>「昌平燕平路东门外」
 
 ####新时期（3）
 
-- 北京怀柔红螺镇毛主席塑像，2003年建，汉白玉，高4米
-- 北京经济技术职业学院，2006年，高7米，安徽籍企业家汪国琦捐赠
-- 北京南郊红星韶膳毛小青国际养生会馆广场，2007年，高11.8米，
+- 北京怀柔红螺镇毛主席塑像，2003年建，汉白玉，<a href="http://ingresss.qiniudn.com/huairouxiaozhen.jpg" target="_blank">高4米</a>
+- 北京经济技术职业学院，2006年，，<a href="http://ingresss.qiniudn.com/jingjijishu.jpg" target="_blank">高7米</a>「安徽籍企业家汪国琦捐赠」
+- 北京南郊红星韶膳毛小青国际养生会馆广场，2007年，<a href="http://ingresss.qiniudn.com/yangshengguan.jpg" target="_blank">高11.8米</a>
 
 #####via
 
