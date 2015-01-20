@@ -6,7 +6,7 @@ categories: markdown
 
 ---
 
-####Markdown 介绍
+###Markdown 介绍
 
 Markdown 是一种轻量级标记语言，创始人为  John Gruber「更为人熟知的是他那个 <a href="http://25.io/mou/" target="_blank">Daring Fireball </a>」。Markdown 的目标是易读易写，纯文本的格式兼容性强到支持用所有文本编辑器打开。
 
@@ -14,12 +14,12 @@ Markdown 是一种轻量级标记语言，创始人为  John Gruber「更为人�
 
 下面是目前使用 Markdown 的配置环境及烂熟于心的使用习惯。
 
-####Markdown Setup
+###Markdown Setup
 
 - 编辑器：<a href="http://25.io/mou/" target="_blank">Mou </a>
 - Mou 主题：<a href="https://github.com/zhf/realm-theme" target="_blank">realm</a>
 
-####基本语法
+###基本语法
 
 - 标题（#号）：`## 这是 H2 <这是二级标题>`
 - 无序列表：`* 无序列表` 「+-号也可」
@@ -38,7 +38,7 @@ Markdown 本身有一些缺点：不支持在新标签打开链接及图片，�
 - 删除线：`<s>删除线文字</s>`「~~ 语法非所有编辑器支持」
 
 
-####More
+###More
 
 - <a href="http://wowubuntu.com/markdown/" target="_blank">Markdown 语法说明</a>
 - <a href="http://www.wikiwand.com/zh/Markdown" target="_blank">Markdown Wikiwand</a>
