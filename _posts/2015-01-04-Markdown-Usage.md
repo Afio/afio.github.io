@@ -35,7 +35,7 @@ Markdown 是一种轻量级标记语言，创始人为  John Gruber「更为人�
 Markdown 本身有一些缺点：不支持在新标签打开链接及图片，但是好在 Markdown 兼容 HTML 语法，所以除了 Markdown 语法外还可以使用常用的 HTML 标签。
 
 - 新标签打开链接： `<a href="链接" target="_blank">链接内容</a>` 
-- <s>删除标签</s>：`<s>删除线文字</s>`
+- 删除线：`<s>删除线文字</s>`「~~ 语法非所有编辑器支持」
 
 
 ####More
