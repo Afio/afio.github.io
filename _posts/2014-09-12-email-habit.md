@@ -46,7 +46,7 @@ categories: work
 
     - 避免复制粘贴，如果有此行为「如无法避免，如果为网页或 Word 内复制，尽量在 Chrome 地址栏中或 txt 文档 / Markdown 等无格式编辑器中过一遍」，在邮件发送前，全选文字，强制将所有文字统一格式「字体、大小、颜色」
     
-    - 以上只是最基本的排版贵方，[更加详细贵方请查阅极客公园内容录入规范/文章贵方](https://gitcafe.com/jyconan/Geekpark_Standard/blob/master/writing_standards.md)或豌豆荚的[文案风格指南](https://github.com/wjp2013/the_room_of_exercises/blob/master/guides/%E8%B1%8C%E8%B1%86%E8%8D%9A%E6%96%87%E6%A1%88%E9%A3%8E%E6%A0%BC%E6%8C%87%E5%8D%97.md)、[Leancloud 文案风格指南](http://open.avoscloud.com/copywriting-style-guide.html)、[中文文案指北](https://github.com/sparanoid/chinese-copywriting-guidelines)，都值得学习。*「注意是学习，在自己习惯上尽量遵循即可，无需全部遵守」*
+    - 以上只是最基本的排版规范，[更加详细贵方请查阅极客公园内容录入规范/文章贵方](https://gitcafe.com/jyconan/Geekpark_Standard/blob/master/writing_standards.md)或豌豆荚的[文案风格指南](https://github.com/wjp2013/the_room_of_exercises/blob/master/guides/%E8%B1%8C%E8%B1%86%E8%8D%9A%E6%96%87%E6%A1%88%E9%A3%8E%E6%A0%BC%E6%8C%87%E5%8D%97.md)、[Leancloud 文案风格指南](http://open.avoscloud.com/copywriting-style-guide.html)、[中文文案指北](https://github.com/sparanoid/chinese-copywriting-guidelines)，都值得学习。*「注意是学习，在自己习惯上尽量遵循即可，无需全部遵守」*
 
 4. 签名尽量避免含有特殊字符，避免图片及附件，注意排版；
 
