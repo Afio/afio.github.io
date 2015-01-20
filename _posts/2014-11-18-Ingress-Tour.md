@@ -138,6 +138,11 @@ Those days, I using ingress to help shape the world’s vision of reality, and�
 - <a href="http://book.douban.com/subject/3003618/" target="_blank">《陕北民俗小石狮》</a>
 - <a href="http://book.douban.com/subject/1256195/" target="_blank">《民间石雕》</a>
 - <a href="http://book.douban.com/subject/20314610/" target="_blank">《雕塑情缘》</a>
+- <a href="http://book.douban.com/subject/6744951/" target="_blank">《曲阳石雕》</a>
+- <a href="http://book.douban.com/subject/26297218/" target="_blank">《石雕·砖雕收藏与鉴赏》</a>
+- <a href="http://book.douban.com/subject/1880845/" target="_blank">《中国雕塑史》</a>
+- <a href="http://book.douban.com/subject/21241418/" target="_blank">《图说毛泽东雕像》</a>
+- <a href="http://book.douban.com/subject/1580486/" target="_blank">《北京国际雕塑公园作品集》</a>
 - 《阳光下的步履-北京红领巾公园公关艺术展》
 - 《城市雕塑&公共艺术：王府井商业街&皇城遗址公园》
 
@@ -148,9 +153,18 @@ Those days, I using ingress to help shape the world’s vision of reality, and�
 - <a href="http://book.douban.com/subject/1521371/" target="_blank">《德国景观设计》</a>
 - <a href="http://book.douban.com/subject/3513872/" target="_blank">《北京建筑设计》</a>
 - <a href="http://book.douban.com/subject/2991028/" target="_blank">《巴黎建筑设计》</a>
+- <a href="http://book.douban.com/subject/20254609/" target="_blank">《北京秘境》</a>
+- <a href="http://book.douban.com/subject/24973485/" target="_blank">《北京秘境2》</a>
+- <a href="http://book.douban.com/subject/26034973/" target="_blank">《Lonely Planet:北京》</a>
 - <a href="http://book.douban.com/subject/20507214/" target="_blank">《水墨北京》</a>
+- <a href="http://book.douban.com/subject/1761540/" target="_blank">《東京建築酷斯拉》</a>
+- <a href="http://book.douban.com/subject/1343379/" target="_blank">《台灣廢墟迷走》</a>
+- <a href="http://book.douban.com/subject/3063940/" target="_blank">《1900-1949年北京的城市规划与建设研究》</a>
+- <a href="http://book.douban.com/subject/1334912/" target="_blank">《虛擬聖境：世界宗教建築縮影》</a>
 - <a href="http://book.douban.com/subject/3513723/" target="_blank">《景山》</a>
 - <a href="http://book.douban.com/subject/3720650/" target="_blank">《城市散步》</a>
+- <a href="http://book.douban.com/subject/5408154/" target="_blank">《名人故居博览.北京卷》</a>
+- <a href="http://book.douban.com/subject/6711452/" target="_blank">《北京胡同》</a>
 - <a href="http://book.douban.com/subject/3049584/" target="_blank">《中国印象》</a>
 
 
