@@ -6,20 +6,16 @@ categories: ingress
 
 ---
 
-####Mission Accepted by NIA_OPS
 
-- <a href="https://plus.google.com/photos/+RandyDong/albums/posts/6085570777404213410" target="_blank">阳光下的步履-红领巾公园</a>
-- <a href="https://plus.google.com/u/1/photos/110298263430604287685/albums/posts/6088285164876983970" target="_blank">北京侨福芳草地一游</a>
-- 探寻北京陈经纶中学
-- 苹果社区&今日美术馆一撇
-- 来日坛公园祭祀太阳神
 
 ####Portals Accepted by NIA_OPS
 
-- 不知名越南佛 <a href="http://ingresss.qiniudn.com/IMG_4803.PNG" target="_blank">「@NhaTrang」</a>
-- 占婆塔建筑右 <a href="http://ingresss.qiniudn.com/IMG_4804.PNG" target="_blank">「@NhaTrang」</a>
-- 占婆塔骑象女佛 <a href="http://ingresss.qiniudn.com/IMG_4805.PNG" target="_blank">「@NhaTrang」</a>
-- 占婆塔香炉 <a href="http://ingresss.qiniudn.com/IMG_4806.PNG" target="_blank">「@NhaTrang」</a>
+- 不知名越南佛
+- 占婆塔建筑右
+- 占婆塔骑象女佛 
+- 占婆塔香炉
+- 古老之门
+- <a href="https://qdan.me/list/VRLs7BtZ14OxwaaQ" target="_blank">and so on</a>
 
 ####Portals Rejected by NIA_OPS
 
@@ -28,11 +24,11 @@ categories: ingress
 - NhaTrang 海豚喷泉「<a href="http://ingresss.qiniudn.com/haitunpenquan.jpg" target="_blank">Photo</a>」---> 12.238618,109.193723
 - NhaTrang 婆那加塔系列 Po「<a href="https://plus.google.com/photos/+RandyDong/albums/posts/6091318485341085746?pid=6091318485341085746&oid=110298263430604287685" target="_blank">Screenshot</a>」 ---> 12.2655382,109.1957975
 
+
+
 ####Portals keys reserved
 
-- 木真了风尚馆「@798 GeekPark」
-
-
+- <s>木真了风尚馆「@798 GeekPark」</s>
 - <s>咖啡陪你「@嘉泰」</s>
 - <s>时代雕塑「@慈云寺桥」</s>
 - <s>人和猴子「@红领巾公园」</s>
@@ -73,7 +69,6 @@ categories: ingress
 - <s>北京林业</s>
 - <s>人大孔子像</s>
 - <s>DH-768</s>
-
 - <s>清华大学中央主楼</s>
 - <s>理想国际大厦假山</s>
 - <s>清华大礼堂</s>
@@ -81,8 +76,6 @@ categories: ingress
 - <s>建筑古件「@北大西门」</s>
 - <s>圆石头「@石景山雕塑公园」</s>
 - <s>北方工业大学主楼</s>
-
-
 - <s>Cannon at Military Museum「@Hanoi」</s>
 - <s>Nha Trang Stone「@NhaTrang」</s>
 - <s>Coco Beach 「@NhaTrang」</s>
@@ -110,3 +103,11 @@ categories: ingress
 - 母鸡和小鸡 ---> 老鹰来了
 - 采蘑菇的小姑娘 ---> 蘑菇座椅
 <br>
+
+####Mission Accepted by NIA_OPS
+
+- 阳光下的步履-红领巾公园
+- 北京侨福芳草地一游
+- 探寻北京陈经纶中学
+- 苹果社区&今日美术馆一撇
+- 来日坛公园祭祀太阳神
