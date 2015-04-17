@@ -14,20 +14,13 @@ categories: ingress
 - 占婆塔建筑右
 - 占婆塔骑象女佛 
 - 占婆塔香炉
-- 古老之门
 - <a href="https://qdan.me/list/VRLs7BtZ14OxwaaQ" target="_blank">and so on</a>
-
-####Portals Rejected by NIA_OPS
-
-
-- 北京愚公移山「<a href="http://ingresss.qiniudn.com/yugongyishan.jpg" target="_blank">Photo</a>」---> 39.933754,116.414575
-- NhaTrang 海豚喷泉「<a href="http://ingresss.qiniudn.com/haitunpenquan.jpg" target="_blank">Photo</a>」---> 12.238618,109.193723
-- NhaTrang 婆那加塔系列 Po「<a href="https://plus.google.com/photos/+RandyDong/albums/posts/6091318485341085746?pid=6091318485341085746&oid=110298263430604287685" target="_blank">Screenshot</a>」 ---> 12.2655382,109.1957975
-
 
 
 ####Portals keys reserved
 
+- 古老之门
+- 地铁十里堡站
 - <s>木真了风尚馆「@798 GeekPark」</s>
 - <s>咖啡陪你「@嘉泰」</s>
 - <s>时代雕塑「@慈云寺桥」</s>

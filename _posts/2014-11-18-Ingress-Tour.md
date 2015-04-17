@@ -35,7 +35,9 @@ Those days, I using ingress to help shape the world’s vision of reality, and�
 
 ###Tour record
 
-- <a href="https://plus.google.com/photos/110298263430604287685/albums/6085988348907482833?authkey=CLDi_dTO4M7WFg" target="_blank"> All photos & screenshots</a>
+- <a href="https://plus.google.com/photos/110298263430604287685/albums/6085988348907482833" target="_blank"> Photos & Screenshots @2014</a>
+- <a href="https://plus.google.com/photos/110298263430604287685/albums/6100495435225929345" target="_blank"> Photos & Screenshots @2015</a>
+- <a href="https://qdan.me/list/VSTo8EENJZBQwVv6" target="_blank"> QingLongHu BBQ</a>
 
 ###Ingress Guys 
 
@@ -61,6 +63,8 @@ Those days, I using ingress to help shape the world’s vision of reality, and�
 - jmmhw9af
 - jiamenya
 - toman
+- AndrewShen
+- Kisukecats
 - Zerock
 - CharileQ
 - Spicer
@@ -83,7 +87,7 @@ Those days, I using ingress to help shape the world’s vision of reality, and�
 
 ####Resistance
 
-- followsicence
+- followsilencio
 - dp19871123
 - unqiuememory
 - Gracefang
@@ -109,7 +113,7 @@ Those days, I using ingress to help shape the world’s vision of reality, and�
 - <a href="http://movie.douban.com/subject/4959621/" target="_blank"> 《城市化》</a>
 - <a href="http://movie.douban.com/subject/4319017/" target="_blank">《画廊外的天赋》</a>
 - <a href="http://movie.douban.com/subject/3567203/" target="_blank"> 《漫游世界建筑群》</a>
-- <a href="http://www.laojilu.com/btv/bei-jing-hu-tong.html" target="_blank"> 《北京的胡同》</a>「ing」
+- <a href="http://www.laojilu.com/btv/bei-jing-hu-tong.html" target="_blank"> 《北京的胡同》</a>
 - <a href="http://movie.douban.com/subject/3567203/" target="_blank"> 《漫游世界建筑群》</a>「ing」
 - <a href="http://movie.douban.com/subject/20503584/" target="_blank"> 《三色艺术史》</a>
 - <a href="http://movie.douban.com/subject/25879080/" target="_blank"> 《北京大堵车》</a>
@@ -147,8 +151,15 @@ Those days, I using ingress to help shape the world’s vision of reality, and�
 - <a href="http://book.douban.com/subject/1580486/" target="_blank">《北京国际雕塑公园作品集》</a>
 - 《阳光下的步履-北京红领巾公园公关艺术展》
 - 《城市雕塑&公共艺术：王府井商业街&皇城遗址公园》
-
-
+- <a href="http://book.douban.com/subject/24700309/" target="_blank">《北京公园生态与文化研究》</a>
+- <a href="http://book.douban.com/subject/10529408/" target="_blank">《八十件最有意思的中国雕塑》</a>
+- <a href="http://book.douban.com/subject/21331467/" target="_blank">《墓地是首雕塑诗》</a>
+- <a href="http://book.douban.com/subject/5068023/" target="_blank">《城市雕塑系统规划》</a>
+- <a href="http://book.douban.com/subject/4074835/" target="_blank">《中国城市雕塑》</a>
+- <a href="http://book.douban.com/subject/10608039/" target="_blank">《点石成金 : 雕塑实验教学》</a>
+- <a href="http://book.douban.com/subject/3166114/" target="_blank">《燃情的石头》</a>
+- <a href="http://book.douban.com/subject/3734903/" target="_blank">《图说中国雕塑艺术》</a>
+- <a href="http://book.douban.com/subject/5288402/" target="_blank">《窑变798》</a>
 - <a href="http://book.douban.com/subject/1334893/" target="_blank">《涂鴉·城市糖果地圖》</a>
 - <a href="http://book.douban.com/subject/3230270/" target="_blank">《瑞士建築異境》</a>
 - <a href="http://book.douban.com/subject/1341986/" target="_blank">《街道神話》</a>
@@ -159,6 +170,7 @@ Those days, I using ingress to help shape the world’s vision of reality, and�
 - <a href="http://book.douban.com/subject/24973485/" target="_blank">《北京秘境2》</a>
 - <a href="http://book.douban.com/subject/26034973/" target="_blank">《Lonely Planet:北京》</a>
 - <a href="http://book.douban.com/subject/20507214/" target="_blank">《水墨北京》</a>
+- <a href="http://book.douban.com/subject/1262419/" target="_blank">《历史文化名城北京》</a>
 - <a href="http://book.douban.com/subject/1761540/" target="_blank">《東京建築酷斯拉》</a>
 - <a href="http://book.douban.com/subject/1343379/" target="_blank">《台灣廢墟迷走》</a>
 - <a href="http://book.douban.com/subject/3063940/" target="_blank">《1900-1949年北京的城市规划与建设研究》</a>
