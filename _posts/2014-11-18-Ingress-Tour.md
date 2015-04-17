@@ -107,6 +107,7 @@ Those days, I using ingress to help shape the world’s vision of reality, and�
 
 - <a href="http://movie.douban.com/subject/4959621/" target="_blank"> 《城市化》</a>
 - <a href="http://movie.douban.com/subject/4319017/" target="_blank">《画廊外的天赋》</a>
+- <a href="http://movie.douban.com/subject/3567203/" target="_blank"> 《漫游世界建筑群》</a>
 - <a href="http://www.laojilu.com/btv/bei-jing-hu-tong.html" target="_blank"> 《北京的胡同》</a>「ing」
 - <a href="http://movie.douban.com/subject/3567203/" target="_blank"> 《漫游世界建筑群》</a>「ing」
 - <a href="http://movie.douban.com/subject/20503584/" target="_blank"> 《三色艺术史》</a>
