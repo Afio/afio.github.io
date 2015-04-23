@@ -39,34 +39,15 @@ Go back to <a href="https://qdan.me/list/VRLs7BtZ14OxwaaQ" target="_blank">Reede
 - 每日一天文图：http://www.skylook.org/apod.rss
 - Leica中文摄影杂志：http://feeds.feedburner.com/leicachina 
 
-###Social Media
-
-- SocialBeta：http://feed.feedsky.com/socialbeta
-- TOPYS：http://www.topys.cn/api/rss
-- Swordi Media Lab：http://swordi.com/feed/
-
 ### Mix Media
 
 - 好奇心日报：http://www.qdaily.com/
 - 知乎日报：http://feeds.feedburner.com/zhihu-daily 
 
-###Politinance
-
-- 政见：http://cnpolitics.org/feed/
-- 纽约时报中文网：http://cn.nytimes.com/rss/news.xml 
-- FT 中文网：http://feeds.feedburner.com/ftchina
-- 经济学人：http://feed.dogear.cn/rss/53a8fe166297377e0a338326.xml
-- 商业周刊中文版：http://www.dogear.cn/feed/10781.xml  「服务器error」
-
 ###Prodcut Designs
 
 - Type is Beautiful：http://www.typeisbeautiful.com/
 - Little Big Details：http://littlebigdetails.com/rss
-
-###Productivity
-
-- 战隼：http://www.read.org.cn/feed
-- 褪墨：http://www.mifengtd.cn/feed.xml
 
 ###Blog Sites
 
@@ -87,6 +68,20 @@ Go back to <a href="https://qdan.me/list/VRLs7BtZ14OxwaaQ" target="_blank">Reede
 - 方可成：http://fangkc.cn/?feed=rss2
 - 万维钢：http://www.geekonomics10000.com/feed
 - 梁文道：http://feeds.feedburner.com/commentshk
+
+###Politinance
+
+- 政见：http://cnpolitics.org/feed/
+- 纽约时报中文网：http://cn.nytimes.com/rss/news.xml 
+- FT 中文网：http://feeds.feedburner.com/ftchina
+- 经济学人：http://feed.dogear.cn/rss/53a8fe166297377e0a338326.xml
+- 商业周刊中文版：http://www.dogear.cn/feed/10781.xml 
+
+###Social Media
+
+- SocialBeta：http://feed.feedsky.com/socialbeta
+- TOPYS：http://www.topys.cn/api/rss
+- Swordi Media Lab：http://swordi.com/feed/
 
 ###Digg News
 
@@ -117,22 +112,11 @@ Go back to <a href="https://qdan.me/list/VRLs7BtZ14OxwaaQ" target="_blank">Reede
 - 数字尾巴应用控：http://app.dgtle.com/
 - Mac玩儿法：http://www.waerfa.com/feed
 
-###Movie Things
-
-- V电影：http://www.vmovier.com/ 
-- 豆瓣电影：http://feed.dogear.cn/rss/539bad866297376b9f634a21.xml
-- 桃桃淘电影：http://feed.dogear.cn/rss/539aa5f56297376b9f63487c.xml
-
-###Intervview
-
-- The Setup：http://usesthis.com/feed/
-- 中国三明治：http://mag.china30s.com/
-
 ###UE/UX/UI/FE
 
 - 腾讯CDC：http://cdc.tencent.com/?feed=rss2
 - 腾讯ISUX：http://isux.tencent.com/feed/atom 
-- 腾讯 TGidears：http://tgideas.qq.com/?feed=rss2 「服务器error」
+- 腾讯 TGidears：http://tgideas.qq.com/?feed=rss2
 - 腾讯MXD：http://mxd.tencent.com/?feed=rss2
 
 - 淘宝UED：http://ued.taobao.org/blog/feed/
@@ -156,6 +140,22 @@ Go back to <a href="https://qdan.me/list/VRLs7BtZ14OxwaaQ" target="_blank">Reede
 - 360FE：http://www.75team.com/feed
 - 携程UED：http://ued.ctrip.com/blog/?feed=rss2
 
+###Productivity
+
+- 战隼：http://www.read.org.cn/feed
+- 褪墨：http://www.mifengtd.cn/feed.xml
+
+
+###Movie Things
+
+- V电影：http://www.vmovier.com/ 
+- 豆瓣电影：http://feed.dogear.cn/rss/539bad866297376b9f634a21.xml
+- 桃桃淘电影：http://feed.dogear.cn/rss/539aa5f56297376b9f63487c.xml
+
+###Intervview
+
+- The Setup：http://usesthis.com/feed/
+- 中国三明治：http://mag.china30s.com/
 
 ###Rich Site 
 
