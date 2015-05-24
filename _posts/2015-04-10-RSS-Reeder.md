@@ -43,6 +43,7 @@ Go back to <a href="https://qdan.me/list/VRLs7BtZ14OxwaaQ" target="_blank">Reede
 
 - 好奇心日报：http://www.qdaily.com/
 - 知乎日报：http://feeds.feedburner.com/zhihu-daily 
+- 笔戈科技：http://bigertech.com/rss
 
 ###Prodcut Designs
 
@@ -73,7 +74,6 @@ Go back to <a href="https://qdan.me/list/VRLs7BtZ14OxwaaQ" target="_blank">Reede
 
 - 政见：http://cnpolitics.org/feed/
 - 纽约时报中文网：http://cn.nytimes.com/rss/news.xml 
-- FT 中文网：http://feeds.feedburner.com/ftchina
 - 经济学人：http://feed.dogear.cn/rss/53a8fe166297377e0a338326.xml
 - 商业周刊中文版：http://www.dogear.cn/feed/10781.xml 
 
@@ -86,7 +86,7 @@ Go back to <a href="https://qdan.me/list/VRLs7BtZ14OxwaaQ" target="_blank">Reede
 ###Digg News
 
 - 维基百科历史上的今天：http://zh.wikipedia.org/w/api.php?action=featuredfeed&feed=onthisday&feedformat=atom
-- 煎蛋：http://jandan.net/feed
+- 煎蛋：http://feeds.feedburner.com/jandan/vip
 - Vice中国：http://www.vice.cn/rss
 - 微在：http://feed.dogear.cn/rss/539aa8ba6297376baf8608fa.xml
 - iPc.me：http://feed.ipc.me/
@@ -155,6 +155,7 @@ Go back to <a href="https://qdan.me/list/VRLs7BtZ14OxwaaQ" target="_blank">Reede
 ###Intervview
 
 - The Setup：http://usesthis.com/feed/
+- Ways We Work：http://feeds.feedburner.com/WaysWeWork
 - 中国三明治：http://mag.china30s.com/
 
 ###Rich Site 
