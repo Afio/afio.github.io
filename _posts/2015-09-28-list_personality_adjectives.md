@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "List Of Personality Adjectives"
+title:  "List of Personality Adjectives"
 date:   2015-09-28 20:00:00
 categories: ingress
 
