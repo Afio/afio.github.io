@@ -6,25 +6,23 @@ categories: rss
 
 ---
 
-Go back to <a href="https://qdan.me/list/VRLs7BtZ14OxwaaQ" target="_blank">Reeder 2</a>
+Go back to <a href="http://reederapp.com/" target="_blank">Reeder </a>
 
 ###Tech News 1
 
 - Solidot：http://solidot.org.feedsportal.com/c/33236/f/556826/index.rss
 - cnBeta Comments：http://www.cnbeta.com/commentrss.php
 - GeekPark：http://www.geekpark.net/rss
-- PingWeast：http://www.pingwest.com/feed/
-- iFanr：http://www.ifanr.com/feed
+- PingWest：http://www.pingwest.com/feed/
+- ifanr：http://www.ifanr.com/feed
 - Engadget CN：http://cn.engadget.com/rss.xml
+- 36Kr：http://36kr.com/feed
 
 ###Tech News 2
 
-- 36Kr：http://36kr.com/feed
 - TECH2IPO：http://tech2ipo.com/feed
 - TechCrunch CN：http://techcrunch.cn/feed/
 - TechNode CN：http://cn.technode.com/feed/
-- LeiPhone：http://feeds.feedburner.com/leiphone
-- LiveSino：http://livesino.net/feed
 
 ### Features News
 
@@ -41,7 +39,7 @@ Go back to <a href="https://qdan.me/list/VRLs7BtZ14OxwaaQ" target="_blank">Reede
 
 ### Mix Media
 
-- 好奇心日报：http://www.qdaily.com/
+- 好奇心日报：http://www.qdaily.com/feed.xml
 - 知乎日报：http://feeds.feedburner.com/zhihu-daily 
 - 笔戈科技：http://bigertech.com/rss
 
