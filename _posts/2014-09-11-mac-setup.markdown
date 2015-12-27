@@ -92,10 +92,16 @@ categories: setup
 - <s>GoagentMac (<a herf="http://www.guokr.com/blog/436937/" target="_blank">setup reference</a>)</s>
 
 
+#### iOS
 
-
-
-
-
-
+- Connect：拍来拍趣、床头宝、小米遥控器、小米运动
+- Way out：航旅纵横PRO、高铁管家、蝉游记、鹰漠旅行、Uber
+- Tools：最美应用、网易有道词典、涂书笔记、小Q画笔
+- Social：Twitter、Google+、Telegram、墨客/Weico、御饭
+- Finance：招商银行、联通手机营业厅、支付宝、手机淘宝
+- Days：美团、饿了么、百度外卖、大众点评
+- Reading：Medium、Pocket、知乎日报、搜狗阅读
+- 主屏：Chrome、QQi、印象笔记、豆瓣、虾米音乐、百度地图、Ingress、Anyconnect、Agent Stats、滴滴出行、VSCOcam、雪球
+- Shoot：Color Accent、Living Planet、Flsheye Pro、Hyperlapse、Camu、Mextures、Enlight、Brushstroke、MoZZ、VOUN、Snapseed、PicMirror
+- 临时：什么值得买、知乎、天天象棋、足迹、豌豆荚一览、名枪
 

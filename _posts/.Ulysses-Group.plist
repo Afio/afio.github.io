@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>2014-09-11-mac-setup.markdown</string>
+		</array>
+		<array>
+			<string>2014-09-11-welcome-to-jekyll.markdown</string>
+		</array>
+		<array>
+			<string>2014-09-12-email-habit.md</string>
+		</array>
+		<array>
+			<string>2014-10-09-Vitename-Free-Tour.md</string>
+		</array>
+		<array>
+			<string>2015-01-03-Chairman-Mao-Statues.md</string>
+		</array>
+		<array>
+			<string>2015-01-04-Markdown-Usage.md</string>
+		</array>
+		<array>
+			<string>2015-04-10-RSS-Reeder.md</string>
+		</array>
+		<array>
+			<string>2015-04-13-Ingress-Portal-About.md</string>
+		</array>
+		<array>
+			<string>2015-04-14-Ingress-Tour.md</string>
+		</array>
+	</array>
+</dict>
+</plist>
