@@ -4,10 +4,10 @@ header-img: img/home-bg.jpg
 email: afio.iam@gmail.com
 description: > # My faith is horror and doom.
 baseurl: ""
-url: "http://afio.im/" 
+url: "http://afio.im/"
 twitter_username: afios
 github_username:  afio
-facebook_username:  RandyDong
+facebook_username:  iamafio
 
 # Build settings
 markdown: kramdown
