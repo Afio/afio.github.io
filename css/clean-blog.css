@@ -17,7 +17,7 @@ h4,
 h5,
 h6 {
   font-family:  'Helvetica Neue', 'Hiragino Sans GB', Helvetica, 'Microsoft YaHei', 'WenQuanYi Micro Hei', Arial, sans-serif;
-  font-weight: 800;
+  font-weight: 500;
 }
 a {
   color: #404040;
@@ -225,8 +225,8 @@ hr.small {
 }
 .post-preview > .post-meta {
   color: #808080;
-  font-size: 18px;
-  font-style: italic;
+  font-size: 16px;
+  font-style: normal;
   margin-top: 0;
 }
 .post-preview > .post-meta > a {
@@ -377,7 +377,7 @@ form .row:first-child .floating-label-form-group {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #808080;
+  background: #27f36a;
 }
 ::selection {
   color: white;
