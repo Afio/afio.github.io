@@ -377,12 +377,12 @@ form .row:first-child .floating-label-form-group {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #27f36a;
+  background: #808080;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #808080;
+  background: #27f36a;
 }
 img::selection {
   color: white;
