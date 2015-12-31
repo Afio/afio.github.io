@@ -3,7 +3,7 @@ layout: post
 title:  "Writing in Markdown "
 date:   2015-01-04 20:00:00
 categories: markdown
-header-img: "img/post-bg-01-jekyll.jpeg"
+header-img: "img/post-bg-02-markdown.jpg"
 ---
 
 ####What is Markdown
