@@ -3,7 +3,7 @@ layout: post
 title:  "RSS Reeder"
 date:   2015-04-10 20:00:00
 categories: rss
-header-img: "post-bg-rss-read.jpeg"
+header-img:"post-bg-rss-read.jpeg"
 ---
 
 Go back to <a href="http://reederapp.com/" target="_blank">Reeder </a>
