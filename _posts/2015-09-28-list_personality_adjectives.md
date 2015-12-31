@@ -3,7 +3,7 @@ layout: post
 title:  "List of Personality Adjectives"
 date:   2015-09-28 20:00:00
 categories: ingress
-
+header-img: "img/post-bg-adjectives.jpg"
 ---
 
 
