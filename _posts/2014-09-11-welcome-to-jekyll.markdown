@@ -5,19 +5,33 @@ date:   2014-09-11 16:58:41
 categories: jekyll update
 header-img: "img/post-bg-01-jekyll.jpeg"
 ---
+####About Jekyll
 
-Reset up blog with Github + Github Page +  Markdown+Jekyll, say goodbye to WordPress.
+<a href="http://jekyllrb.com/" target="_blank">Jekyll</a> is a static blogging engine, which can transform your plain text into static websites and blogs and serves and perform faster.
 
-Tips:
+If want to be focusing on writing and publishing your content, use Jekyll, and allows you to concoct your sites in any way you can dream up.
+
+So I reset up blog with Jekyll + Github + Github Page +  Markdown configuration, say goodbye to WordPress.
+
+Actually, you don't need to install Jekyll in your local system, just click `Fork` button in your favor Jekyll github repositories. Then clone to your own repo and custom `the _config.yml`, In this file you can specify the blog name, the permalink format, host, Port number, and etc.
+
+And there are some tips:
 
 - Use Github Mac
-- <a href="http://jekyllcn.com/" target="_blank">Jekyllcn</a> was awesome
-- When set up in your Mac, use domestic gem
+
+- <a href="http://jekyllcn.com/" target="_blank">Jekyllcn</a> was a awesome site
+
+- If you have to set up in your locally Mac, use domestic gem
 
       1.  sudo gem sources --remove http://rubygems.org/
       2.  sudo gem sources -a http://ruby.taobao.org/
       3.  sudo gem install jekyll
+
 -  You can add `<link rel="shortcut icon" href="favicon.ico”>` in `_layouts` >`page.html` & `post.html`  head label to get an favicon icon, and don’t forget to drag the file to root cd.
+
+
+**Happy Jekyll’ing!**
+
 
 ####Official introduction
 
