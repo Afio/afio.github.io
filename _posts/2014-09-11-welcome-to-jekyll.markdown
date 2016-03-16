@@ -5,7 +5,7 @@ date:   2014-09-11 16:58:41
 categories: jekyll update
 header-img: "img/post-bg-01-jekyll.jpeg"
 ---
-####About Jekyll
+<h4>About Jekyll<h4>
 
 <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> is a static blogging engine, which can transform your plain text into static websites and blogs and serves and perform faster.
 
