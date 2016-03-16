@@ -5,7 +5,7 @@ date:   2014-09-11 16:58:41
 categories: jekyll update
 header-img: "img/post-bg-01-jekyll.jpeg"
 ---
-<h4>About Jekyll<h4>
+<h4>About Jekyll</h4>
 
 <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> is a static blogging engine, which can transform your plain text into static websites and blogs and serves and perform faster.
 
@@ -33,7 +33,7 @@ And there are some tips:
 **Happy Jekyll’ing!**
 
 
-####Official introduction
+<h4>Official introduction</h4>
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
