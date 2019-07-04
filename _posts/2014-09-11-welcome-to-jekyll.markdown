@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "搭建一劳永逸的 Jekyll+GithubPage Blog环境"
 date:   2014-09-11 16:58:41
 categories: jekyll update
 header-img: "img/post-bg-01-jekyll.jpeg"
 ---
 <div style='margin:0 auto;width:0px;height:0px;overflow:hidden;'><img src="http://7xrxiu.com1.z0.glb.clouddn.com/wechat.JPG" width='500'></div>
-<h3>About Jekyll</h3>
+<h3>关于 Jekyll</h3>
 
 <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> is a static blogging engine, which can transform your plain text into static websites and blogs and serves and perform faster.
 
