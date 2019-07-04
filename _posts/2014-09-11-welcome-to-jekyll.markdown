@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!!"
 date:   2014-09-11 16:58:41
 categories: jekyll update
-header-img: "https://xqimg.imedao.com/16bbc117efc383fec7a6c4f7.jpg"
+header-img: "img/post-bg-01-jekyll.jpeg"
 ---
 <div style='margin:0 auto;width:0px;height:0px;overflow:hidden;'><img src="http://7xrxiu.com1.z0.glb.clouddn.com/wechat.JPG" width='500'></div>
 <h3>About Jekyll</h3>
