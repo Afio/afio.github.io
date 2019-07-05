@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!!"
+title:  "转投Jekyll"
 date:   2014-09-11 16:58:41
 categories: jekyll update
 header-img: "img/post-bg-01-jekyll.jpeg"
 ---
-<div style='margin:0 auto;width:0px;height:0px;overflow:hidden;'><img src="https://xqimg.imedao.com/16bbff5c1d3553fc06cb1d09.png" width='500'></div>
+<div style='margin:0 auto;width:0px;height:0px;overflow:hidden;'><img src="https://xqimg.imedao.com/16bc009f9115d3fc9c9f8813.png" width='500'></div>
 <h3>About Jekyll</h3>
 
 <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> is a static blogging engine, which can transform your plain text into static websites and blogs and serves and perform faster.
@@ -55,3 +55,6 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
+
+http://jekyllthemes.org/themes/clean-blog/
+https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll
