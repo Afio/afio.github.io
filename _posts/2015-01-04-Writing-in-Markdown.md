@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Writing in Markdown "
+title:  "Markdown指北"
 date:   2015-01-04 20:00:00
 categories: markdown
 header-img: "img/post-bg-02-mrakdown.jpg"
@@ -32,8 +32,8 @@ Markdown 是一种轻量级标记语言，致力于使阅读和创作文档变�
 # 一级标题           
 ## 二级标题          
 ### 三级标题      
-~~~
-<br>
+~~~  <br>
+
 **2. 列表**
 
 无序列表使用星号 * 加号 + 或减号 - 来做为列表的项目标记（已养成下意识按出减号的习惯），有序列表使用数字加英文句号。对于列表 List 来说格式非常自然，效果等同于 `<ul><ol><li>` 标签。另外注意列表符号与内容中间都需要一个英文空格。
