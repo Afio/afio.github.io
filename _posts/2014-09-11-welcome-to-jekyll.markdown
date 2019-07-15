@@ -58,3 +58,10 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 
 http://jekyllthemes.org/themes/clean-blog/
 https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll
+
+
+- [ ] a task list item
+- [ ] list syntax required
+- [ ] normal **formatting**, @mentions, #1234 refs
+- [ ] incomplete
+- [x] completed
