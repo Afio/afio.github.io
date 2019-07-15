@@ -60,8 +60,8 @@ http://jekyllthemes.org/themes/clean-blog/
 https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll
 
 
-- [ ] a task list item
-- [ ] list syntax required
-- [ ] normal **formatting**, @mentions, #1234 refs
-- [ ] incomplete
-- [x] completed
+- [ ]  a task list item
+- [ ]  list syntax required
+- [ ]  normal 
+- [x]  complete1
+- [x]  completed

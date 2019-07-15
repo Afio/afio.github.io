@@ -39,11 +39,20 @@ Markdown 是一种轻量级标记语言，致力于使阅读和创作文档变�
 无序列表使用星号 * 加号 + 或减号 - 来做为列表的项目标记（已养成下意识按出减号的习惯），有序列表使用数字加英文句号。对于列表 List 来说格式非常自然，效果等同于 `<ul><ol><li>` 标签。另外注意列表符号与内容中间都需要一个英文空格。
 
 ~~~
- - 无序列表a       1. 有序列表1      
- - 无序列表b       2. 有序列表2   
- - 无序列表c       3. 有序列表3     
+ - 无序列表a     1. 有序列表1    - [x]  已完成任务清单1   
+ - 无序列表b     2. 有序列表2    - [ ]  待做任务清单2
+ - 无序列表c     3. 有序列表3    - [ ]  待做任务清单3
 ~~~  
 
+注：任务列表为扩展格式，Jekyll 需引进 `GFM` 特性来支持任务列表：在根目录 `_config.yml` 文件内添加即可，示例见下：
+
+~~~
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+~~~
 
 **3. 字体**
 
@@ -88,4 +97,5 @@ SELECT * from default.sample LIMIT 10  <br>
 - <a href="https://spec.commonmark.org/0.29/" target="_blank">Markdown 官方网站</a>
 - <a href="https://zh.wikipedia.org/wiki/Markdown" target="_blank">Markdown 维基百科</a>
 - <a href="https://kramdown.gettalong.org/syntax.html" target="_blank">kramdown官方语法</a>
+- <a href="https://github.blog/2013-01-09-task-lists-in-gfm-issues-pulls-comments/" target="_blank">在Jekyll中添加GFM任务列表</a>
 
