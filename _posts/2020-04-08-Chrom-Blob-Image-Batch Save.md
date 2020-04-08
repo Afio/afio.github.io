@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chrom Blob Image Batch Save"
+title:  "Blob Img Batch Save"
 date:   2020-04-08 20:00:00
 categories: Chrome
 header-img: "img/china_bronze_panlongpan.png"
