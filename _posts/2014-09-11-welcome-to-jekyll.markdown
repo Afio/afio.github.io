@@ -57,6 +57,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [jekyll-help]: https://github.com/jekyll/jekyll-help
 
 http://jekyllthemes.org/themes/clean-blog/
+
 https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll
 
 
