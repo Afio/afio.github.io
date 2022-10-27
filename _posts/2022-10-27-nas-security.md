@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "群晖安全设置项"
-date:   2022-10-27 20:00:00
+title:  "群晖安全设置"
+date:   2022-10-26 20:00:00
 categories: Nas
 header-img: "img/post-bg-06-nas-safe.jpg"
 ---
