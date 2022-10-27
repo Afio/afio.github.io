@@ -3,7 +3,7 @@ layout: post
 title:  "Ingress Tour"
 date:   2015-04-14 20:00:00
 categories: ingress
-header-img: "img/post-bg-ingress-tour.jpg"
+header-img: "img/post-bg-04-ingress-tour.jpg"
 ---
 
 
